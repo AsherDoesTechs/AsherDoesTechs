@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Asher Basco</h1>
 <h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🔥 Passionate Learner</h3>
 
+<p align="center">
+  <img src="assets/coding.gif" width="300" alt="coding animation" />
+</p>
+
 ---
 
 ### 🚀 About Me
