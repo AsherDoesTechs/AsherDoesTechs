@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asher Basco</h1>
-<h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</
+<h3 align="center" margin: 20px;>💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</
 
 ---
 
-<table align="center" style="border: 2px solid #00f0ff; border-radius: 12px; padding: 20px;">
+<table align="center" style="border: 2px solid #00f0ff; border-radius: 12px;">
   <tr>
     <td>
       <h3>🚀 About Me</h3>
