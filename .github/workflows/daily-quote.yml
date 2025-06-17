@@ -30,11 +30,11 @@ jobs:
 
       - name: Commit and Push Changes
         env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "AsherDoesTechs"
           git config --global user.email "Asherbasco93@gmail.com"
-          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
           git add README.md
           git commit -m "🔁 update: daily motivational quote" || echo "No changes to commit"
           git push
