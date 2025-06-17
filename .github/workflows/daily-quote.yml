@@ -37,5 +37,5 @@ jobs:
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
           git add README.md
           git commit -m "🔁 update: daily motivational quote" || echo "No changes to commit"
-          git push origin HEAD:main
+          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:main
 
