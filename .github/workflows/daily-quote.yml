@@ -14,10 +14,13 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Get Motivational Quote
-        run: |
-          curl -s https://zenquotes.io/api/random > quote.json
-          quote=$(jq -r '.[0].q + " — " + .[0].a' quote.json)
-          echo -e "<!--START_SECTION:quote-->\n> $quote\n<!--END_SECTION:quote-->" > quote.md
+  run: |
+    sudo apt-get update
+    sudo apt-get install -y jq
+    curl -s https://zenquotes.io/api/random > quote.json
+    quote=$(jq -r '.[0].q + " — " + .[0].a' quote.json)
+    echo -e "<!--START_SECTION:quote-->\n> $quote\n<!--END_SECTION:quote-->" > quote.md
+
 
       - name: Replace in README
         run: |
