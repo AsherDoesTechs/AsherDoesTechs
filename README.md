@@ -8,8 +8,7 @@
 - 🎓 BSIT Student and passionate Web Developer
 - 🔭 I’m currently working on: **My Portfolio & Creative Projects**
 - 🌱 I’m learning **Next.js, MongoDB, and Full-Stack Development**
-- 💬 Ask me about: **Web Development, JavaScript, or Motivational Video Editing**
-- ⚡ Fun fact: I edit motivational videos with Ayanokoji-level energy ⚔️
+- 💬 Ask me about: **Web Development**
 
 ---
 
@@ -25,17 +24,11 @@
 
 ### 📂 Featured Projects
 
-- 🎨 [**Personal Portfolio Website**](https://asherdoestechs.vercel.app)
+- 🎨 [**Personal Portfolio Website**](#)
   - Built using: HTML, CSS, JavaScript, and now migrating to Next.js
 
 - 📦 [**Inventory Management System**](#)
   - Features: Login/Register, Product Filters, Dashboard Analytics
-
-- 🎬 [**Motivational Video Series**](#)
-  - Style: Dark, Real, and Ayanokoji-inspired shorts
-  - Project Name: `Silent Grinder`
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -45,14 +38,13 @@
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Connect With Me !!
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DayDreameeerrr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_devasher_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asher-basco-370bb828a/)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsherTechs)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 ---
 
-> "Stay silent. Stay sharp. Be the wolf they never saw coming." — *Silent Grinder*
+> "Keeping the Momentum is Great, But Doing it without Momentum is Discipline"
 
