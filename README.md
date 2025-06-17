@@ -3,7 +3,7 @@
 
 ---
 
-<table align="center" style="border: 2px solid #00f0ff; border-radius: 12px; padding: 20px;">
+<table align="center" style="border: 2px solid #00f0ff; border-radius: 12px; padding: 10px;">
   <tr>
     <td>
       <h3>🚀 About Me</h3>
@@ -17,7 +17,7 @@
       </ul>
     </td>
     <td align="center">
-      <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="270" alt="coding-anime" />
+      <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" alt="coding-anime" />
     </td>
   </tr>
 </table>
