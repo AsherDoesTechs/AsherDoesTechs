@@ -1,38 +1,35 @@
-name: Daily Anime Quote ✨
+name: Daily Motivational Quote
 
 on:
   schedule:
-    - cron: '0 0 * * *' # every day at midnight UTC
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   update-readme:
+    name: Update Quote
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
 
-      - name: Fetch Anime Quote
-        id: anime_quote
+      - name: Get Motivational Quote
         run: |
-          curl -s https://animechan.xyz/api/random > quote.json
-          quote=$(jq -r '.quote' quote.json)
-          character=$(jq -r '.character' quote.json)
-          anime=$(jq -r '.anime' quote.json)
-          final="> \"$quote\"\n\n> — $character from *$anime*"
-          echo -e "<!--START_SECTION:quote-->\n$final\n<!--END_SECTION:quote-->" > quote.md
+          curl -s https://zenquotes.io/api/random > quote.json
+          quote=$(jq -r '.[0].q + " — " + .[0].a' quote.json)
+          echo -e "<!--START_SECTION:quote-->\n> $quote\n<!--END_SECTION:quote-->" > quote.md
 
-      - name: Inject into README
+      - name: Replace in README
         run: |
           awk '/<!--START_SECTION:quote-->/ { print; system("cat quote.md"); found=1; skip=1; next }
                /<!--END_SECTION:quote-->/ { skip=0; next }
-               !skip { print }' README.md > temp.md
-          mv temp.md README.md
+               !skip { print }' README.md > README.temp.md
+          mv README.temp.md README.md
 
       - name: Commit changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add README.md
-          git commit -m "✨ updated: anime quote of the day" || echo "No changes to commit"
+          git commit -m "🔁 update: daily motivational quote" || echo "No changes to commit"
           git push
