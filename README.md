@@ -1,7 +1,6 @@
-<h1 align="center">
-  Hi <img src="https://media.tenor.com/3cLBIrYv9W0AAAAi/waving-hi.gif" width="32px" alt="👋" onerror="this.outerHTML='👋'" />, I'm Asher Basco
-</h1>
-<h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</h3>
+how to make this hand move?
+<h1 align="center">Hi 👋, I'm Asher Basco</h1>
+<h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</
 
 ---
 
