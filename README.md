@@ -3,7 +3,7 @@
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td>
       <h3>🚀 About Me</h3>
