@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" alt="coding-anime" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Asher Basco</h1>
 <h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</h3>
 
+
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" alt="coding-anime" />
+</p>
 ---
 
 ### 🚀 About Me
@@ -31,12 +31,12 @@
 
 ### 📂 Featured Projects
 
-- 🔥 [**Next.js Portfolio Website**](#)
-  - Powered by: Next.js, Tailwind, MongoDB, Vercel
+- 🔥 [**Portfolio Website**](#)
+  - Powered by: Next.js, TailwindCSS
   - Highlights: Fully responsive, blazing fast, modern UX
 
 - 📦 [**Inventory Management System**](#)
-  - Built with: JavaFX, MySQL, Node.js, Bootstrap
+  - Built with: JavaFX, Java, SQLite
   - Features: Authentication, Filtering, CRUD, Dashboard Analytics
 
 ---
@@ -68,4 +68,4 @@
 
 ---
 
-> _"Keeping the momentum is great. But doing it **without momentum**? That’s **discipline**."_ — SilentGrinder
+> _"Keeping the momentum is great. But doing it **without momentum**? That’s **discipline**."_ — "Ash" 
