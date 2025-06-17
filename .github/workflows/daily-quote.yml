@@ -1,24 +1,35 @@
-name: 🧠 Daily Quote Updater
+name: Daily Motivational Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Every day at midnight UTC
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   update-readme:
+    name: Update Quote
     runs-on: ubuntu-latest
+
     steps:
-      - name: ⬇️ Clone Repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: 🧠 Get Quote
-        uses: jayrajput/github-profile-readme-quotes@master
-        with:
-          quote_type: 'motivational'  # Other options: 'wisdom', 'life'
+      - name: Get Motivational Quote
+        run: |
+          curl https://zenquotes.io/api/random > quote.json
+          quote=$(jq -r '.[0].q + " — " + .[0].a' quote.json)
+          echo -e "<!--START_SECTION:quote-->\n> $quote\n<!--END_SECTION:quote-->" > quote.md
 
-      - name: ⬆️ Push Changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          default_author: github_actions
-          message: "🧠 Updated daily quote"
+      - name: Replace in README
+        run: |
+          awk '/<!--START_SECTION:quote-->/ { print; system("cat quote.md"); found=1; skip=1; next }
+               /<!--END_SECTION:quote-->/ { skip=0; next }
+               !skip { print }' README.md > README.temp.md
+          mv README.temp.md README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "🔁 update: daily motivational quote" || echo "No changes to commit"
+          git push
