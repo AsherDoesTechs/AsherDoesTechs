@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Techie-Anime/Techie-Anime/main/code.gif" width="400" alt="anime-coding-gif">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" alt="coding-anime" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Asher Basco</h1>
@@ -52,8 +52,8 @@
 
 ### 🔁 Daily Quote
 
-START_SECTION:quote
-END_SECTION:quote
+<!--START_SECTION:quote-->
+<!--END_SECTION:quote-->
 
 ---
 
