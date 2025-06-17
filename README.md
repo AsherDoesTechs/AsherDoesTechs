@@ -3,7 +3,7 @@
 
 ---
 
-<table align="center">
+<table align="center" style="border: 2px solid #00f0ff; border-radius: 12px; padding: 20px;">
   <tr>
     <td>
       <h3>🚀 About Me</h3>
@@ -21,6 +21,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
