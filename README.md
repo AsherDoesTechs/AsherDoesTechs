@@ -1,68 +1,69 @@
-<h1 align="center">🚀 Asher Basco</h1>
-<h3 align="center">💻 Web Developer | 🎬 Creative Editor | 🔥 Passionate Learner</h3>
-
 <p align="center">
-  <!-- Lottie Coding Animation Embed -->
-  <a href="#">
-    <img src="https://lottie.host/56015735-5b0b-4ab9-83b6-c777c60d3df3/48h1FRdDgG.json" alt="Coding animation" width="350" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Techie-Anime/Techie-Anime/main/code.gif" width="400" alt="anime-coding-gif">
 </p>
----
 
-### 🧠 Who Am I?
-
-- 🎓 A BSIT Student fueled by code and creativity  
-- 🛠️ Building: **Next.js Portfolio, Full-Stack Projects, Inventory System**  
-- 📚 Currently mastering: **Next.js, MongoDB, Express, Vercel, Tailwind**  
-- 🎯 I aim to solve real-world problems with smart, scalable apps  
-- 💬 Let’s talk about: **Web Development | Creative Editing | UI/UX**
+<h1 align="center">Hi 👋, I'm Asher Basco</h1>
+<h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</h3>
 
 ---
 
-### ⚙️ Tech Toolbox
+### 🚀 About Me
 
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+- 🎓 BSIT Student & Passionate Full-Stack Developer
+- 🔭 Currently working on: **My Portfolio Rebuild (Next.js Edition)**
+- 🌱 Learning: **Next.js, MongoDB, and Full-Stack Development**
+- 💬 Ask me about: **Front-End, Web Apps, Deployment**
+- ⚡ Fun Fact: I design AND code — pixel to logic.
 
 ---
 
-### 🧩 Featured Projects
+### 🧰 Tech Stack
 
-- 🔥 **Personal Portfolio** → _Next.js, Tailwind, MongoDB, Deployed on Vercel_  
-- 📦 **Inventory System** → _Login, Product Filters, Dashboard, MySQL_  
-- 🎬 **Motivational Edits** → _Ayanokoji Style, Short-form, Fast-paced content_
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 📂 Featured Projects
+
+- 🔥 [**Next.js Portfolio Website**](#)
+  - Powered by: Next.js, Tailwind, MongoDB, Vercel
+  - Highlights: Fully responsive, blazing fast, modern UX
+
+- 📦 [**Inventory Management System**](#)
+  - Built with: JavaFX, MySQL, Node.js, Bootstrap
+  - Features: Authentication, Filtering, CRUD, Dashboard Analytics
+
+---
+
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsherTechs&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsherTechs&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsherTechs&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsherTechs&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🔁 Daily Quote
 
-<p align="center">
-  <a href="https://www.facebook.com/DayDreameeerrr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_devasher_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/asher-basco-370bb828a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AsherTechs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<!--START_SECTION:quote-->
+<!--END_SECTION:quote-->
 
 ---
 
-> 🧠 _"Keeping the momentum is great, but doing it without momentum is **discipline**."_  
-> — AsherDoesTechs
+### 🌐 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/DayDreameeerrr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_devasher_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asher-basco-370bb828a)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsherTechs)
+
+---
+
+> _"Keeping the momentum is great. But doing it **without momentum**? That’s **discipline**."_ — SilentGrinder
