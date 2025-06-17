@@ -1,12 +1,5 @@
-<h1 align="center" style="
-  font-family: 'Courier New', monospace;
-  color: #00ffff;
-  text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 20px #00ffff;
-  font-size: 2.2em;
-">
-  Hi <img src="https://media.tenor.com/3cLBIrYv9W0AAAAi/waving-hi.gif" width="32px" alt="👋" 
-    style="vertical-align: middle;" 
-    onerror="this.outerHTML='👋'" />&nbsp;I'm Asher Basco
+<h1 align="center">
+  Hi <img src="https://media.tenor.com/3cLBIrYv9W0AAAAi/waving-hi.gif" width="32px" alt="👋" onerror="this.outerHTML='👋'" />, I'm Asher Basco
 </h1>
 <h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</h3>
 
