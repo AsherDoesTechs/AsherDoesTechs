@@ -1,20 +1,29 @@
 <h1 align="center">Hi 👋, I'm Asher Basco</h1>
 <h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" alt="coding-anime" />
-</p>
-
 ---
 
-### 🚀 About Me
+<table>
+  <tr>
+    <td>
 
-- 🎓 BSIT Student & Passionate Full-Stack Developer
-- 🔭 Currently working on: **My Portfolio Rebuild (Next.js Edition)**
-- 🌱 Learning: **Next.js, MongoDB, and Full-Stack Development**
-- 💬 Ask me about: **Front-End, Web Apps, Deployment**
-- ⚡ Fun Fact: I design AND code — pixel to logic.
-- 🎯 Life Motto: *"Discipline beats motivation."*
+      <h3>🚀 About Me</h3>
+
+      <ul>
+        <li>🎓 BSIT Student & Passionate Full-Stack Developer</li>
+        <li>🔭 Currently working on: <strong>My Portfolio Rebuild (Next.js Edition)</strong></li>
+        <li>🌱 Learning: <strong>Next.js, MongoDB, and Full-Stack Development</strong></li>
+        <li>💬 Ask me about: <strong>Front-End, Web Apps, Deployment</strong></li>
+        <li>⚡ Fun Fact: I design AND code — pixel to logic.</li>
+        <li>🎯 Life Motto: <em>"Discipline beats motivation."</em></li>
+      </ul>
+
+    </td>
+    <td align="center">
+      <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" alt="coding-anime" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -23,31 +32,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,nodejs,mongodb,git,github,figma,react,vercel" alt="tech stack" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AsherDoesTechs/AsherDoesTechs/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-
-### 🧠 Languages & Libraries
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### ⚙️ Frameworks & Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
 ---
 
 ### 📂 Featured Projects
