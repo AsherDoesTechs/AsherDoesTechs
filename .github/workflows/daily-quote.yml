@@ -2,34 +2,34 @@ name: Daily Motivational Quote
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '0 0 * * *' # Every day at midnight UTC
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update Quote
+    name: Update Daily Quote
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
 
-      - name: Get Motivational Quote
-  run: |
-    sudo apt-get update
-    sudo apt-get install -y jq
-    curl -s https://zenquotes.io/api/random > quote.json
-    quote=$(jq -r '.[0].q + " — " + .[0].a' quote.json)
-    echo -e "<!--START_SECTION:quote-->\n> $quote\n<!--END_SECTION:quote-->" > quote.md
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
 
+      - name: Fetch a Motivational Quote
+        run: |
+          curl -s https://zenquotes.io/api/random > quote.json
+          quote=$(jq -r '.[0].q + " — " + .[0].a' quote.json)
+          echo -e "<!--START_SECTION:quote-->\n> $quote\n<!--END_SECTION:quote-->" > quote.md
 
-      - name: Replace in README
+      - name: Inject Quote into README
         run: |
           awk '/<!--START_SECTION:quote-->/ { print; system("cat quote.md"); found=1; skip=1; next }
                /<!--END_SECTION:quote-->/ { skip=0; next }
                !skip { print }' README.md > README.temp.md
           mv README.temp.md README.md
 
-      - name: Commit changes
+      - name: Commit and Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
