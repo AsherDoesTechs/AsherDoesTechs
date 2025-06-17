@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="#" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
@@ -89,7 +89,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
-
 
 
 ---
