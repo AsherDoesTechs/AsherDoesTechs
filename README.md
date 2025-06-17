@@ -8,9 +8,9 @@
     <td>
       <h3>🚀 About Me</h3>
       <ul>
-        <li>🎓 BSIT Student & Passionate Full-Stack Developer</li>
+        <li>🎓 BSIT Student & Passionate Web Developer</li>
         <li>🔭 Currently working on: <strong>My Portfolio Rebuild (Next.js Edition)</strong></li>
-        <li>🌱 Learning: <strong>Next.js, MongoDB, and Full-Stack Development</strong></li>
+        <li>🌱 Learning: <strong>Next.js, MongoDB, and Front-End Development</strong></li>
         <li>💬 Ask me about: <strong>Front-End, Web Apps, Deployment</strong></li>
         <li>⚡ Fun Fact: I design AND code — pixel to logic.</li>
         <li>🎯 Life Motto: <em>"Discipline beats motivation."</em></li>
@@ -75,9 +75,21 @@
 
 ### 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 
 ---
 
