@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asher Basco</h1>
-<h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</>
+<h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</h3>
                                                                               
 ---
 
