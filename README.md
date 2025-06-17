@@ -3,6 +3,35 @@
 
 ![Coding Animation](https://link-to-your-gif.gif)
 
+
+<pre class="terminal">
+  <code id="cmd"></code>
+</pre>
+
+<style>
+  .terminal {
+    background: #222;
+    color: #0f0;
+    padding: 1rem;
+    border-radius: 8px;
+    overflow: hidden;
+    font-family: 'Courier New', monospace;
+  }
+  #cmd { white-space: pre-wrap; }
+</style>
+
+<script>
+const code = `> npm run build
+✔ Build complete.
+> git push origin main\n`;
+let i = 0;
+function type() {
+  document.getElementById('cmd').textContent = code.slice(0, i++);
+  if (i <= code.length) setTimeout(type, 75);
+}
+type();
+</script>
+
 ---
 
 ### 🚀 About Me
