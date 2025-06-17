@@ -47,13 +47,13 @@
 ### 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsherTechs&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsherTechs&theme=tokyonight" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsherTechs&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsherDoesTechs&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsherDoesTechs&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsherDoesTechs&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsherTechs&label=Profile+Views&color=0e75b6&style=flat" alt="AsherTechs" />
+  <img src="https://komarev.com/ghpvc/?username=AsherDoesTechs&label=Profile+Views&color=0e75b6&style=flat" alt="AsherDoesTechs" />
 </p>
 
 ---
@@ -75,18 +75,16 @@
 
 ### 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/DayDreameeerrr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_devasher_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asher-basco-370bb828a)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 ---
 
 ### ⏳ Now
 
 - 🚀 Rebuilding my Portfolio with Next.js & MongoDB
-- 🎥 Creating Motivational AI Edits
 - 🧪 Experimenting with GitHub Actions & Auto-Updates
-- ✨ Growing Silent Grinder Series
 
 ---
 
