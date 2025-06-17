@@ -53,6 +53,8 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
+<!--START_SECTION:quote-->
+> Many people spend more time looking at their failures than focusing on their successes. — Lolly Daskal
 <!--END_SECTION:quote-->
 
 ---
