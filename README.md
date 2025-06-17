@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asher Basco</h1>
 <h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🔥 Passionate Learner</h3>
 
-<p align="center">
-  <a href="https://lottiefiles.com/animation-link">
-    <img src="https://assets7.lottiefiles.com/packages/lf20_tno6cg2w.json" width="300" alt="coding animation" />
-  </a>
-</p>
+![Coding Animation](https://link-to-your-gif.gif)
 
 ---
 
