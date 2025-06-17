@@ -6,9 +6,7 @@
 <table>
   <tr>
     <td>
-
       <h3>🚀 About Me</h3>
-
       <ul>
         <li>🎓 BSIT Student & Passionate Full-Stack Developer</li>
         <li>🔭 Currently working on: <strong>My Portfolio Rebuild (Next.js Edition)</strong></li>
@@ -17,7 +15,6 @@
         <li>⚡ Fun Fact: I design AND code — pixel to logic.</li>
         <li>🎯 Life Motto: <em>"Discipline beats motivation."</em></li>
       </ul>
-
     </td>
     <td align="center">
       <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" alt="coding-anime" />
