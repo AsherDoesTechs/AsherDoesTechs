@@ -30,6 +30,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,nodejs,mongodb,git,github,figma,react,vercel" alt="tech stack" />
 </p>
+
 ---
 
 ### 📂 Featured Projects
@@ -76,17 +77,17 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://facebook.com/DayDreameeerrr" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  <a href="https://instagram.com/_devasher_" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/asher-basco-370bb828a" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  <a href="mailto:asherbasco93@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
   </a>
 </p>
 
