@@ -2,9 +2,11 @@
 <h3 align="center">💻 Web Developer | 🎬 Creative Editor | 🔥 Passionate Learner</h3>
 
 <p align="center">
-  <img src="https://lottie.host/5bbd5c10-24a2-41f3-a242-0cb491e5b503/8YVh9rQ5pC.json" width="320" alt="Techy Coding Animation" />
+  <!-- Lottie Coding Animation Embed -->
+  <a href="#">
+    <img src="https://lottie.host/56015735-5b0b-4ab9-83b6-c777c60d3df3/48h1FRdDgG.json" alt="Coding animation" width="350" />
+  </a>
 </p>
-
 ---
 
 ### 🧠 Who Am I?
