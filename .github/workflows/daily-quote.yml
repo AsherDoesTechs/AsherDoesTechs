@@ -27,7 +27,7 @@ jobs:
                /<!--END_SECTION:quote-->/ { skip=0; next }
                !skip { print }' README.md > README.temp.md
           mv README.temp.md README.md
-
+          
       - name: Commit and Push Changes
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
