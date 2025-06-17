@@ -52,8 +52,8 @@
 
 ### 🔁 Daily Quote
 
-<!--START_SECTION:quote-->
-<!--END_SECTION:quote-->
+START_SECTION:quote
+END_SECTION:quote
 
 ---
 
