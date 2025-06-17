@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.gif" width="30px" alt="waving hand" />, I'm Asher Basco
+  Hi <img src="https://media.tenor.com/3cLBIrYv9W0AAAAi/waving-hi.gif" width="32px" alt="waving hand" />, I'm Asher Basco
 </h1>
 <h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</h3>
 
