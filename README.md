@@ -17,7 +17,7 @@
       </ul>
     </td>
     <td align="center">
-      <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" alt="coding-anime" />
+      <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="270" alt="coding-anime" />
     </td>
   </tr>
 </table>
