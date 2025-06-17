@@ -77,16 +77,16 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/DayDreameeerrr" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
+  <a href="#" target="_blank"> 
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/_devasher_" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" />
+  <a href="#" target="_blank"> 
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/in/asher-basco-370bb828a" target="_blank">
+  <a href="#" target="_blank"> 
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="mailto:asherbasco93@gmail.com" target="_blank">
+  <a href="#" target="_blank"> 
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
   </a>
 </p>
