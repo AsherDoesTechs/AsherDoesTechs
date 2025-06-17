@@ -28,14 +28,13 @@ jobs:
                !skip { print }' README.md > README.temp.md
           mv README.temp.md README.md
 
-             - name: Commit and Push Changes
-          env:
-            GH_TOKEN: ${{ secrets.GH_PAT }}
-          run: |
-            git config --global user.name "AsherDoesTechs"
-            git config --global user.email "Asherbasco93@gmail.com"
-            git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
-            git add README.md
-            git commit -m "🔁 update: daily motivational quote" || echo "No changes to commit"
-            git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:main
-          
+      - name: Commit and Push Changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.name "AsherDoesTechs"
+          git config --global user.email "Asherbasco93@gmail.com"
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
+          git add README.md
+          git commit -m "🔁 update: daily motivational quote" || echo "No changes to commit"
+          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:main
