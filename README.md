@@ -86,7 +86,7 @@
   <a href="#" target="_blank"> 
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="Asherbasco93@gmail.com" target="_blank"> 
+  <a href="mailto:asherbasco93@gmail.com" target="_blank"> 
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
   </a>
 </p>
