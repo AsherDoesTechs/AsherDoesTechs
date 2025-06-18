@@ -62,7 +62,8 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Many people spend more time looking at their failures than focusing on their successes. — Lolly Daskal
+<!--START_SECTION:quote-->
+> The only defense against the world is a thorough knowledge of it. — John Locke
 <!--END_SECTION:quote-->
 
 ---
