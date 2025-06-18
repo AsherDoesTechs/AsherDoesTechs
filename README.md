@@ -54,7 +54,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AsherDoesTechs&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsherDoesTechs&theme=tokyonight" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsherDoesTechs&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -87,7 +86,7 @@
   <a href="#" target="_blank"> 
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="#" target="_blank"> 
+  <a href="Asherbasco93@gmail.com" target="_blank"> 
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
   </a>
 </p>
