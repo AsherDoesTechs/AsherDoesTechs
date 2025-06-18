@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Asher Basco</h1>
 <h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</h3>
-                                                                              
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AsherDoesTechs&label=Profile+Views&color=0e75b6&style=flat" alt="AsherDoesTechs" />
+</p>
+
 ---
 
 <table align="center" style="border: 2px solid #00f0ff; border-radius: 12px;">
@@ -51,10 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AsherDoesTechs&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsherDoesTechs&theme=tokyonight" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsherDoesTechs&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsherDoesTechs&label=Profile+Views&color=0e75b6&style=flat" alt="AsherDoesTechs" />
 </p>
 
 ---
