@@ -62,7 +62,11 @@
 
 <!--START_SECTION:quote-->
 <!--START_SECTION:quote-->
-> The only defense against the world is a thorough knowledge of it. — John Locke
+> What we dwell on is who we become. — Oprah Winfrey
+<!--END_SECTION:quote-->
+<!--START_SECTION:quote-->
+<!--START_SECTION:quote-->
+> What we dwell on is who we become. — Oprah Winfrey
 <!--END_SECTION:quote-->
 
 ---
