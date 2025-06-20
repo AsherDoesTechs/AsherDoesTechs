@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=AsherDoesTechs&label=Profile+Views&color=0e75b6&style=flat" alt="AsherDoesTechs" />
 </p> 
 
-ChatGPT
-
-
 ---
 
 <table align="center" style="border: 2px solid #00f0ff; border-radius: 12px;">
