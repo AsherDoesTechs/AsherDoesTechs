@@ -61,21 +61,9 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-<!--START_SECTION:quote-->
 > All power is from within and therefore under our control. — Robert Collier
 <!--END_SECTION:quote-->
-<!--START_SECTION:quote-->
-<!--START_SECTION:quote-->
-> All power is from within and therefore under our control. — Robert Collier
-<!--END_SECTION:quote-->
-<!--START_SECTION:quote-->
-<!--START_SECTION:quote-->
-> All power is from within and therefore under our control. — Robert Collier
-<!--END_SECTION:quote-->
-<!--START_SECTION:quote-->
-<!--START_SECTION:quote-->
-> All power is from within and therefore under our control. — Robert Collier
-<!--END_SECTION:quote-->
+
 
 ---
 
