@@ -20,15 +20,13 @@ jobs:
       - name: Fetch a Motivational Quote
         run: |
           curl -s https://zenquotes.io/api/random > quote.json
-          quote=$(jq -r '.[0].q + " — " + .[0].a' quote.json)
-          echo -e "<!--START_SECTION:quote-->\n> $quote\n<!--END_SECTION:quote-->" > quote.md
 
-      - name: Inject Quote into README
-        run: |
-          awk '/<!--START_SECTION:quote-->/ { print; system("cat quote.md"); found=1; skip=1; next }
-               /<!--END_SECTION:quote-->/ { skip=0; next }
-               !skip { print }' README.md > README.temp.md
-          mv README.temp.md README.md
+
+               - name: Inject Quote into README
+            run: |
+              quote=$(jq -r '.[0].q + " — " + .[0].a' quote.json)
+              sed -i '/<!--START_SECTION:quote-->/, /<!--END_SECTION:quote-->/c\
+          <!--START_SECTION:quote-->\n> '"$quote"'\n<!--END_SECTION:quote-->' README.md
 
       - name: Commit and Push Changes
         env:
