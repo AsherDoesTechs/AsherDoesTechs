@@ -62,11 +62,19 @@
 
 <!--START_SECTION:quote-->
 <!--START_SECTION:quote-->
-> What we dwell on is who we become. — Oprah Winfrey
+> All power is from within and therefore under our control. — Robert Collier
 <!--END_SECTION:quote-->
 <!--START_SECTION:quote-->
 <!--START_SECTION:quote-->
-> What we dwell on is who we become. — Oprah Winfrey
+> All power is from within and therefore under our control. — Robert Collier
+<!--END_SECTION:quote-->
+<!--START_SECTION:quote-->
+<!--START_SECTION:quote-->
+> All power is from within and therefore under our control. — Robert Collier
+<!--END_SECTION:quote-->
+<!--START_SECTION:quote-->
+<!--START_SECTION:quote-->
+> All power is from within and therefore under our control. — Robert Collier
 <!--END_SECTION:quote-->
 
 ---
