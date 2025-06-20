@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Asher Basco</h1>
 <h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsherDoesTechs&label=Profile+Views&color=0e75b6&style=flat" alt="AsherDoesTechs" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=AsherDoesTechs&label=Profile+Views&color=0e75b6&style=flat" alt="AsherDoesTechs" />
+    </td>
+    <td align="center">
+      <img src="https://media.tenor.com/d44FB6VJ8D8AAAAC/text-work-computer.gif" width="100" alt="Text Work Penguin" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
