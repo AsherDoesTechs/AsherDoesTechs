@@ -2,7 +2,7 @@ name: Daily Motivational Quote
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -21,11 +21,10 @@ jobs:
         run: |
           curl -s https://zenquotes.io/api/random > quote.json
 
-
-               - name: Inject Quote into README
-            run: |
-              quote=$(jq -r '.[0].q + " — " + .[0].a' quote.json)
-              sed -i '/<!--START_SECTION:quote-->/, /<!--END_SECTION:quote-->/c\
+      - name: Inject Quote into README
+        run: |
+          quote=$(jq -r '.[0].q + " — " + .[0].a' quote.json)
+          sed -i '/<!--START_SECTION:quote-->/, /<!--END_SECTION:quote-->/c\
           <!--START_SECTION:quote-->\n> '"$quote"'\n<!--END_SECTION:quote-->' README.md
 
       - name: Commit and Push Changes
