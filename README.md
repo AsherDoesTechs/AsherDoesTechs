@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> All power is from within and therefore under our control. — Robert Collier
+> The greatest test of courage on earth is to bear defeat without losing heart. — Robert Greene
 <!--END_SECTION:quote-->
 
 
