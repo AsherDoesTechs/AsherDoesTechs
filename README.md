@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Don't let the fear of losing be greater than the excitement of winning. — Robert Kiyosaki
+> Your heart is full of fertile seeds, waiting to sprout. — Morihei Ueshiba
 <!--END_SECTION:quote-->
 
 
