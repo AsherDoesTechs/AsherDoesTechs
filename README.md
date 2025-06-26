@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Your heart is full of fertile seeds, waiting to sprout. — Morihei Ueshiba
+> You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give. — Eleanor Roosevelt
 <!--END_SECTION:quote-->
 
 
