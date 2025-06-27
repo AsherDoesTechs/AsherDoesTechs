@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give. — Eleanor Roosevelt
+> What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature! — Charles Darwin
 <!--END_SECTION:quote-->
 
 
