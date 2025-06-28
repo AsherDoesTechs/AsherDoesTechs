@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature! — Charles Darwin
+> To be totally at leisure for one day is to be immortal for one day.  — Chinese Proverb
 <!--END_SECTION:quote-->
 
 
