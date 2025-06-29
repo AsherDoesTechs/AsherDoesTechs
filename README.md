@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> To be totally at leisure for one day is to be immortal for one day.  — Chinese Proverb
+> Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company.  — George Washington
 <!--END_SECTION:quote-->
 
 
