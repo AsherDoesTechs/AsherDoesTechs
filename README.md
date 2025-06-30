@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company.  — George Washington
+> Throw your heart over the bar and your body will follow. — Norman Vincent Peale
 <!--END_SECTION:quote-->
 
 
