@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> There is nothing in the world so irresistibly contagious as laughter and good humor. — Charles Dickens
+> Maybe you are searching among the branches, for what only appears in the roots. — Rumi
 <!--END_SECTION:quote-->
 
 
