@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power. — Tony Robbins
+> Victims recite problems, leaders provide solutions. — Robin Sharma
 <!--END_SECTION:quote-->
 
 
