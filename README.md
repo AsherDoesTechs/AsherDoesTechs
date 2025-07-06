@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Victims recite problems, leaders provide solutions. — Robin Sharma
+> Inspire yourself to be great. Being good isn't good enough. — Gurbaksh Chahal
 <!--END_SECTION:quote-->
 
 
