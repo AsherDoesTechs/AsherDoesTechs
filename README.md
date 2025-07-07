@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Inspire yourself to be great. Being good isn't good enough. — Gurbaksh Chahal
+> Not why the addiction but why the pain. — Gabor Mate
 <!--END_SECTION:quote-->
 
 
