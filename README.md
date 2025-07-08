@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Not why the addiction but why the pain. — Gabor Mate
+> I have lost friends, some by death...others by sheer inability to cross the street. — Virginia Woolf
 <!--END_SECTION:quote-->
 
 
