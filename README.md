@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I have lost friends, some by death...others by sheer inability to cross the street. — Virginia Woolf
+> Simplicity is a difficult thing to achieve.   — Charlie Chaplin
 <!--END_SECTION:quote-->
 
 
