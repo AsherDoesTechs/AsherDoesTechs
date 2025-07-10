@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Simplicity is a difficult thing to achieve.   — Charlie Chaplin
+> If you want something you've never had you must be willing to do something you've never done. — Thomas Jefferson
 <!--END_SECTION:quote-->
 
 
