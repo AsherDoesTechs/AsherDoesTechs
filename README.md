@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you want something you've never had you must be willing to do something you've never done. — Thomas Jefferson
+> You need to be doing fewer things for more effect instead of doing more things with side effects. — Gary Keller
 <!--END_SECTION:quote-->
 
 
