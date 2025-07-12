@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You need to be doing fewer things for more effect instead of doing more things with side effects. — Gary Keller
+> Amateurs sit and wait for inspiration, the rest of us just get up and got to work. — Stephen King
 <!--END_SECTION:quote-->
 
 
