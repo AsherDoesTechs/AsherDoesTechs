@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Amateurs sit and wait for inspiration, the rest of us just get up and got to work. — Stephen King
+> When asked, how do you write? I invariably answer, one word at a time. — Stephen King
 <!--END_SECTION:quote-->
 
 
