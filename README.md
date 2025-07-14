@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> When asked, how do you write? I invariably answer, one word at a time. — Stephen King
+> The greatest of all mistakes is to do nothing because you think you can only do a little.   — Zig Ziglar
 <!--END_SECTION:quote-->
 
 
