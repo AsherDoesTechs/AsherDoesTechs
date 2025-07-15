@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The greatest of all mistakes is to do nothing because you think you can only do a little.   — Zig Ziglar
+> Fallacies do not cease to be fallacies because they become fashions. — Gilbert Chesterton
 <!--END_SECTION:quote-->
 
 
