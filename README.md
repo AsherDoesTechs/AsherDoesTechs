@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Fallacies do not cease to be fallacies because they become fashions. — Gilbert Chesterton
+> The joy of life comes from our encounters with new experiences. — Christopher McCandless
 <!--END_SECTION:quote-->
 
 
