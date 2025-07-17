@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The joy of life comes from our encounters with new experiences. — Christopher McCandless
+> I like the dreams of the future better than the history of the past. — Thomas Jefferson
 <!--END_SECTION:quote-->
 
 
