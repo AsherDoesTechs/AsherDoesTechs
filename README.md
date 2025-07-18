@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I like the dreams of the future better than the history of the past. — Thomas Jefferson
+> What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that. — Eckhart Tolle
 <!--END_SECTION:quote-->
 
 
