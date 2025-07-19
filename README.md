@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that. — Eckhart Tolle
+> Success is getting what you want, happiness is wanting what you get. — W.P. Kinsella
 <!--END_SECTION:quote-->
 
 
