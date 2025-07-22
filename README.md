@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We think too much and feel too little. — Charlie Chaplin
+> People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine. — Brian Tracy
 <!--END_SECTION:quote-->
 
 
