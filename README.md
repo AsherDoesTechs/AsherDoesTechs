@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> All men are equal before fish. — Herbert Hoover
+> Wisdom is doing now what you are going to be happy with later on. — Joyce Meyer
 <!--END_SECTION:quote-->
 
 
