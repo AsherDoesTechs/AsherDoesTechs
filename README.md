@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The ones who are crazy enough to think they can change the world, are the ones that do. — Steve Jobs
+> Appear weak when you are strong, and strong when you are weak. — Sun Tzu
 <!--END_SECTION:quote-->
 
 
