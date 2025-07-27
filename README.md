@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Appear weak when you are strong, and strong when you are weak. — Sun Tzu
+> The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one. — Mark Twain
 <!--END_SECTION:quote-->
 
 
