@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one. — Mark Twain
+> Wisdom is the oneness of mind that guides and permeates all things. — Heraclitus
 <!--END_SECTION:quote-->
 
 
