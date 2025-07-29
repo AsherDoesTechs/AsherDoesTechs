@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Wisdom is the oneness of mind that guides and permeates all things. — Heraclitus
+> Intense love does not measure, it just gives. — Mother Teresa
 <!--END_SECTION:quote-->
 
 
