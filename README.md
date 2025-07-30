@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Intense love does not measure, it just gives. — Mother Teresa
+> Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending. — Carl Bard
 <!--END_SECTION:quote-->
 
 
