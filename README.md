@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending. — Carl Bard
+> Don't criticize what you can't understand.  — Bob Dylan
 <!--END_SECTION:quote-->
 
 
