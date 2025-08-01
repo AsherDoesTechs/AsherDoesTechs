@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Don't criticize what you can't understand.  — Bob Dylan
+> An intelligence test sometimes shows a man how smart he would have been not to have taken it. — Laurence J. Peter
 <!--END_SECTION:quote-->
 
 
