@@ -61,7 +61,7 @@
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> An intelligence test sometimes shows a man how smart he would have been not to have taken it. — Laurence J. Peter
+> Even if you persuade me, you won't persuade me. — Aristophanes
 <!--END_SECTION:quote-->
 
 
