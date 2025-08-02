@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asher Basco</h1>
-<h3 align="center">💻 Web Developer | 🎥 Creative Editor | 🚀 Passionate Techie</h3>
+<h3 align="center">💻 Web Developer | 🎥 Content Creator | 🚀 Passionate Techie</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AsherDoesTechs&label=Profile+Views&color=0e75b6&style=flat" alt="AsherDoesTechs" />
@@ -13,8 +13,7 @@
       <h3>🚀 About Me</h3>
       <ul>
         <li>🎓 BSIT Student & Passionate Web Developer</li>
-        <li>🔭 Currently working on: <strong>My Portfolio Rebuild (Next.js Edition)</strong></li>
-        <li>🌱 Learning: <strong>Next.js, MongoDB, and Front-End Development</strong></li>
+        <li>🌱 Focused on mastering: <strong>TypeScript, React, Next.ts for scalable web apps</strong></li> 
         <li>💬 Ask me about: <strong>Front-End, Web Apps, Deployment</strong></li>
         <li>⚡ Fun Fact: I design AND code — pixel to logic.</li>
         <li>🎯 Life Motto: <em>"Discipline beats motivation."</em></li>
@@ -32,7 +31,7 @@
 ### ⚙️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,nodejs,mongodb,git,github,figma,react,vercel" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,tailwind,nextjs,git,github,react,vercel,figma" alt="tech stack" />
 </p>
 
 ---
@@ -40,12 +39,9 @@
 ### 📂 Featured Projects
 
 #### 🔥 [**Portfolio Website**](#)
-- Powered by: Next.js, TailwindCSS
+Click here => https://asher-basco.vercel.app
+- Powered by: Next.js, TailwindCSS, React.ts
 - Highlights: Fully responsive, blazing fast, modern UX
-
-#### 📦 [**Inventory Management System**](#)
-- Built with: JavaFX, Java, SQLite
-- Features: Authentication, Filtering, CRUD, Dashboard Analytics
 
 ---
 
@@ -77,13 +73,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="#" target="_blank"> 
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
-  </a>
-  <a href="#" target="_blank"> 
+  <a href="https://www.instagram.com/_devasher_/" target="_blank"> 
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
-  <a href="#" target="_blank"> 
+  <a href="https://www.linkedin.com/in/asher-basco-370bb828a/" target="_blank"> 
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:asherbasco93@gmail.com" target="_blank"> 
