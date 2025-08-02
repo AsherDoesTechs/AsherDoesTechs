@@ -89,8 +89,9 @@ Click here => https://asher-basco.vercel.app
 
 ### ⏳ Now
 
-- 🚀 Rebuilding my Portfolio with Next.js & MongoDB
-- 🧪 Experimenting with GitHub Actions & Auto-Updates
+- 🌱 Learning, and Being Better Day by Day.
+- 🚀 Maximizing my Skills in Programming, and Problem-Solving.
+- 🧪 Experimenting with other Front-End TechStacks.
 
 ---
 
