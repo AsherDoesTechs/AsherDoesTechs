@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Nothing can survive without food. Everything we consume acts either to heal us or to poison us. — Thich Nhat Hanh
+> Many of life's failures are people who did not realize how close they were to success when they gave up. — Thomas Edison
 <!--END_SECTION:quote-->
 
 
