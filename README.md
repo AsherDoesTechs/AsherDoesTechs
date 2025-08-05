@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Many of life's failures are people who did not realize how close they were to success when they gave up. — Thomas Edison
+> You came empty handed, and you will leave empty handed. — Bhagavad Gita
 <!--END_SECTION:quote-->
 
 
