@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You came empty handed, and you will leave empty handed. — Bhagavad Gita
+> Stress happens when the mind resists what is. — Dan Millman
 <!--END_SECTION:quote-->
 
 
