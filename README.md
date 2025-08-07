@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Stress happens when the mind resists what is. — Dan Millman
+> Be happy in the moment, that's enough. Each moment is all we need, not more. — Mother Teresa
 <!--END_SECTION:quote-->
 
 
