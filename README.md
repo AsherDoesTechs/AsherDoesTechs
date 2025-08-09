@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for. — Bob Marley
+> I begin with an idea and then it becomes something else. — Pablo Picasso
 <!--END_SECTION:quote-->
 
 
