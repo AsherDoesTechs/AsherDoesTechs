@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I begin with an idea and then it becomes something else. — Pablo Picasso
+> Follow your instincts. That is where true wisdom manifests itself. — Oprah Winfrey
 <!--END_SECTION:quote-->
 
 
