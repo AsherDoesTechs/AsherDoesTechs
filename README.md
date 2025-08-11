@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Follow your instincts. That is where true wisdom manifests itself. — Oprah Winfrey
+> Life is like underwear, should be changed twice a day.   — Ray Bradbury
 <!--END_SECTION:quote-->
 
 
