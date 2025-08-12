@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Life is like underwear, should be changed twice a day.   — Ray Bradbury
+> Progress is limited by your ability to change your mind. — Jack Butcher
 <!--END_SECTION:quote-->
 
 
