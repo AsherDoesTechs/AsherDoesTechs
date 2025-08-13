@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Progress is limited by your ability to change your mind. — Jack Butcher
+> If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere. — Zig Ziglar
 <!--END_SECTION:quote-->
 
 
