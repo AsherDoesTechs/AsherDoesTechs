@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere. — Zig Ziglar
+> Before preparing to improve the world, first look around your own home three times.  — Chinese Proverb
 <!--END_SECTION:quote-->
 
 
