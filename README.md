@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Before preparing to improve the world, first look around your own home three times.  — Chinese Proverb
+> Unhappiness enters through a door that has been left open. — Zen Proverb
 <!--END_SECTION:quote-->
 
 
