@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Unhappiness enters through a door that has been left open. — Zen Proverb
+> You don't need anybody to tell you who you are or what you are. You are what you are! — John Lennon
 <!--END_SECTION:quote-->
 
 
