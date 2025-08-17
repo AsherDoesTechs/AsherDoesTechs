@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You don't need anybody to tell you who you are or what you are. You are what you are! — John Lennon
+> Life is like riding a bicycle. To keep your balance you must keep moving. — Albert Einstein
 <!--END_SECTION:quote-->
 
 
