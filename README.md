@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Life is like riding a bicycle. To keep your balance you must keep moving. — Albert Einstein
+> Tension is who you think you should be. Relaxation is who you are. — Chinese Proverb
 <!--END_SECTION:quote-->
 
 
