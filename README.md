@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Tension is who you think you should be. Relaxation is who you are. — Chinese Proverb
+> Don't wait for extraordinary opportunities. Seize common occasions and make them great. — Orison Swett Marden
 <!--END_SECTION:quote-->
 
 
