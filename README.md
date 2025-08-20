@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Don't wait for extraordinary opportunities. Seize common occasions and make them great. — Orison Swett Marden
+> Keep your dreams, you never know when you might need them. — Carlos Ruiz Zafon
 <!--END_SECTION:quote-->
 
 
