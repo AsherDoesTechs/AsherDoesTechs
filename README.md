@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Keep your dreams, you never know when you might need them. — Carlos Ruiz Zafon
+> Your spirit is the true shield. — Morihei Ueshiba
 <!--END_SECTION:quote-->
 
 
