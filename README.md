@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Your spirit is the true shield. — Morihei Ueshiba
+> The wiser you get, the less you care to look like a fool. — Maxime Lagace
 <!--END_SECTION:quote-->
 
 
