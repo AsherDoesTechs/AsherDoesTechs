@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The wiser you get, the less you care to look like a fool. — Maxime Lagace
+> One of the first signs of the beginning of understanding is the wish to die.  — Franz Kafka
 <!--END_SECTION:quote-->
 
 
