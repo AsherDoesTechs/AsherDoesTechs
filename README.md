@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> One of the first signs of the beginning of understanding is the wish to die.  — Franz Kafka
+> Throughout this life, you can never be certain of living long enough to take another breath. — Zen Proverb
 <!--END_SECTION:quote-->
 
 
