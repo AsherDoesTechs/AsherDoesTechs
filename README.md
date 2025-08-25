@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Throughout this life, you can never be certain of living long enough to take another breath. — Zen Proverb
+> What worries you, masters you. — John Locke
 <!--END_SECTION:quote-->
 
 
