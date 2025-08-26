@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> What worries you, masters you. — John Locke
+> The two most powerful warriors are patience and time. — Leo Tolstoy
 <!--END_SECTION:quote-->
 
 
