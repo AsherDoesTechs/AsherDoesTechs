@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The two most powerful warriors are patience and time. — Leo Tolstoy
+> Don't explain your philosophy. Embody it. — Epictetus
 <!--END_SECTION:quote-->
 
 
