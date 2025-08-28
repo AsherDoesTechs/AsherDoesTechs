@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Don't explain your philosophy. Embody it. — Epictetus
+> Successful people do what unsuccessful people are not willing to do. — Jim Rohn
 <!--END_SECTION:quote-->
 
 
