@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Successful people do what unsuccessful people are not willing to do. — Jim Rohn
+> Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. — Spencer Johnson
 <!--END_SECTION:quote-->
 
 
