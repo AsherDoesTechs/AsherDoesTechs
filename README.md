@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. — Spencer Johnson
+> Ripe fruit falls by itself - but it doesn't fall in your mouth.  — Chinese Proverb
 <!--END_SECTION:quote-->
 
 
