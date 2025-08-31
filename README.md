@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Ripe fruit falls by itself - but it doesn't fall in your mouth.  — Chinese Proverb
+> Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim. — John D. Rockefeller
 <!--END_SECTION:quote-->
 
 
