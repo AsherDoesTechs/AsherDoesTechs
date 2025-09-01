@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim. — John D. Rockefeller
+> Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor. — Thich Nhat Hanh
 <!--END_SECTION:quote-->
 
 
