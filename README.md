@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor. — Thich Nhat Hanh
+> The only way to 'find out if it will work out' is to do it. — Simon Sinek
 <!--END_SECTION:quote-->
 
 
