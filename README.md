@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The only way to 'find out if it will work out' is to do it. — Simon Sinek
+> We are always complaining that our days are few, and acting as though there would be no end of them.   — Seneca
 <!--END_SECTION:quote-->
 
 
