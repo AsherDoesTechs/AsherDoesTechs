@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We are always complaining that our days are few, and acting as though there would be no end of them.   — Seneca
+> When you are totally at peace with yourself, nothing can shake you. — Deepam Chaterjee
 <!--END_SECTION:quote-->
 
 
