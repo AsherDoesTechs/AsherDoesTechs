@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> When you are totally at peace with yourself, nothing can shake you. — Deepam Chaterjee
+> Arise, slay thy enemies, enjoy a prosperous kingdom. — Bhagavad Gita
 <!--END_SECTION:quote-->
 
 
