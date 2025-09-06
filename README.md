@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Arise, slay thy enemies, enjoy a prosperous kingdom. — Bhagavad Gita
+> We are all born ignorant, but one must work hard to remain stupid. — Benjamin Franklin
 <!--END_SECTION:quote-->
 
 
