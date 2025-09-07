@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We are all born ignorant, but one must work hard to remain stupid. — Benjamin Franklin
+> It is difficult to free fools from the chains they revere.  — Voltaire
 <!--END_SECTION:quote-->
 
 
