@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> It is difficult to free fools from the chains they revere.  — Voltaire
+> Your world is a living expression of how you are using and have used your mind. — Earl Nightingale
 <!--END_SECTION:quote-->
 
 
