@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Your world is a living expression of how you are using and have used your mind. — Earl Nightingale
+> The fewer the words, the better the prayer. — Martin Luther
 <!--END_SECTION:quote-->
 
 
