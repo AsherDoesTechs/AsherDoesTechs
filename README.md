@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The fewer the words, the better the prayer. — Martin Luther
+> Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity. — Og Mandino
 <!--END_SECTION:quote-->
 
 
