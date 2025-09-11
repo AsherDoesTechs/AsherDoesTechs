@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity. — Og Mandino
+> If you care about someone enough, you'll always be there for them no matter what. — Roy T. Bennett
 <!--END_SECTION:quote-->
 
 
