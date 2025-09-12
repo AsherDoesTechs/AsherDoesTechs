@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you care about someone enough, you'll always be there for them no matter what. — Roy T. Bennett
+> Nothing that results in human progress is achieved with unanimous consent. — Christopher Columbus
 <!--END_SECTION:quote-->
 
 
