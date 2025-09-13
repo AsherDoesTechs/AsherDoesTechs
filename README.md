@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Nothing that results in human progress is achieved with unanimous consent. — Christopher Columbus
+> Life is what you make it. Always has been, always will be. — Eleanor Roosevelt
 <!--END_SECTION:quote-->
 
 
