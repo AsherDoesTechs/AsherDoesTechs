@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Life is what you make it. Always has been, always will be. — Eleanor Roosevelt
+> The world only exists in your eyes. You can make it as big or as small as you want. — F. Scott Fitzgerald
 <!--END_SECTION:quote-->
 
 
