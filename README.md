@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> an action committed in anger is an action doomed to failure.  — Genghis Khan
+> No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain. — Josh Waitzkin
 <!--END_SECTION:quote-->
 
 
