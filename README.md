@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain. — Josh Waitzkin
+> Take care of your body. It's the only place you have to live. — Jim Rohn
 <!--END_SECTION:quote-->
 
 
