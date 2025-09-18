@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Take care of your body. It's the only place you have to live. — Jim Rohn
+> We ordinary people must forge our own beauty. — Kenji Miyazawa
 <!--END_SECTION:quote-->
 
 
