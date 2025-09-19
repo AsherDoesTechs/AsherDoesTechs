@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We ordinary people must forge our own beauty. — Kenji Miyazawa
+> You have the ability, now apply yourself. — Benjamin Mays
 <!--END_SECTION:quote-->
 
 
