@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You have the ability, now apply yourself. — Benjamin Mays
+> It's the little things done consistently over time, straight from your heart, that have the greatest impact. — Unknown
 <!--END_SECTION:quote-->
 
 
