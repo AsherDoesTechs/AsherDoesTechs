@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> It's the little things done consistently over time, straight from your heart, that have the greatest impact. — Unknown
+> Perseverance and spirit have done wonders in all ages.  — George Washington
 <!--END_SECTION:quote-->
 
 
