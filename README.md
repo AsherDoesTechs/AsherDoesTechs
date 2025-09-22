@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Perseverance and spirit have done wonders in all ages.  — George Washington
+> You must either modify your dreams or magnify your skills. — Jim Rohn
 <!--END_SECTION:quote-->
 
 
