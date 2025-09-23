@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You must either modify your dreams or magnify your skills. — Jim Rohn
+> Never take your position for granted and never let any favors you receive go to your head. — Robert Greene
 <!--END_SECTION:quote-->
 
 
