@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Never take your position for granted and never let any favors you receive go to your head. — Robert Greene
+> There is nothing more truly artistic than to love people. — Vincent van Gogh
 <!--END_SECTION:quote-->
 
 
