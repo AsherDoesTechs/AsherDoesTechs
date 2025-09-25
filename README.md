@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> There is nothing more truly artistic than to love people. — Vincent van Gogh
+> Everybody by your side ain't on your side. — Steve Harvey
 <!--END_SECTION:quote-->
 
 
