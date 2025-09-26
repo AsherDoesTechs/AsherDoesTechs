@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Everybody by your side ain't on your side. — Steve Harvey
+> If you are patient in one moment of anger, you will escape a hundred days of sorrow.  — Chinese Proverb
 <!--END_SECTION:quote-->
 
 
