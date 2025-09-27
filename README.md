@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you are patient in one moment of anger, you will escape a hundred days of sorrow.  — Chinese Proverb
+> We become what we believe. — Lolly Daskal
 <!--END_SECTION:quote-->
 
 
