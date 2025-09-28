@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We become what we believe. — Lolly Daskal
+> What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature! — Charles Darwin
 <!--END_SECTION:quote-->
 
 
