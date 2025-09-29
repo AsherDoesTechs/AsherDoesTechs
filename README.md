@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature! — Charles Darwin
+> Death walks faster than the wind and never returns what he has taken. — Hans Christian Andersen
 <!--END_SECTION:quote-->
 
 
