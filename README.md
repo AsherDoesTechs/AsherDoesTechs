@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Death walks faster than the wind and never returns what he has taken. — Hans Christian Andersen
+> Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse. — Alfred Adler
 <!--END_SECTION:quote-->
 
 
