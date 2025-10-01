@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse. — Alfred Adler
+> The greatest test of courage on earth is to bear defeat without losing heart. — Robert Greene
 <!--END_SECTION:quote-->
 
 
