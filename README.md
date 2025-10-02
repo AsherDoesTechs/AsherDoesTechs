@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The greatest test of courage on earth is to bear defeat without losing heart. — Robert Greene
+> All power is from within and therefore under our control. — Robert Collier
 <!--END_SECTION:quote-->
 
 
