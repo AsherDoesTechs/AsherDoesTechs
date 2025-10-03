@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> All power is from within and therefore under our control. — Robert Collier
+> A goal is a dream with a deadline. — Napoleon Hill
 <!--END_SECTION:quote-->
 
 
