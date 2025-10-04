@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A goal is a dream with a deadline. — Napoleon Hill
+> I am always doing what I cannot do yet, in order to learn how to do it. — Vincent van Gogh
 <!--END_SECTION:quote-->
 
 
