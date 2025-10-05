@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I am always doing what I cannot do yet, in order to learn how to do it. — Vincent van Gogh
+> Don't set your own goals by what other people make important. — Lolly Daskal
 <!--END_SECTION:quote-->
 
 
