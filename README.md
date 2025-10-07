@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Don't set your own goals by what other people make important. — Lolly Daskal
+> The older you get, the more you understand how your conscience works. — Criss Jami
 <!--END_SECTION:quote-->
 
 
