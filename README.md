@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The older you get, the more you understand how your conscience works. — Criss Jami
+> The more you know, the more you know you don't know. — Aristotle
 <!--END_SECTION:quote-->
 
 
