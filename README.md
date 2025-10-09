@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The more you know, the more you know you don't know. — Aristotle
+> The opportunity of defeating the enemy is provided by the enemy himself. — Sun Tzu
 <!--END_SECTION:quote-->
 
 
