@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The opportunity of defeating the enemy is provided by the enemy himself. — Sun Tzu
+> When you believe in a thing, believe in it all the way, implicitly and unquestionable. — Walt Disney
 <!--END_SECTION:quote-->
 
 
