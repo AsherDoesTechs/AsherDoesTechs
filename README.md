@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Some people feel the rain. Others just get wet.  — Bob Dylan
+> Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases. — Sathya Sai Baba
 <!--END_SECTION:quote-->
 
 
