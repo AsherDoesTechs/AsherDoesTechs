@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases. — Sathya Sai Baba
+> Happiness is not something ready made. It comes from your own actions. — Dalai Lama
 <!--END_SECTION:quote-->
 
 
