@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Happiness is not something ready made. It comes from your own actions. — Dalai Lama
+> It's not how much money you make, it's how much money you keep. — Robert Kiyosaki
 <!--END_SECTION:quote-->
 
 
