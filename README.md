@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> It's not how much money you make, it's how much money you keep. — Robert Kiyosaki
+> Any fool can paint a picture, but it takes a wise man to be able to sell it. — Samuel Butler
 <!--END_SECTION:quote-->
 
 
