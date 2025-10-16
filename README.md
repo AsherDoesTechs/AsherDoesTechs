@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Any fool can paint a picture, but it takes a wise man to be able to sell it. — Samuel Butler
+> If you want to be successful, you have to jump, there's no way around it. — Steve Harvey
 <!--END_SECTION:quote-->
 
 
