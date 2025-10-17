@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you want to be successful, you have to jump, there's no way around it. — Steve Harvey
+> Inner peace is when you realize that, in the end, nothing matters. — Maxime Lagace
 <!--END_SECTION:quote-->
 
 
