@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Inner peace is when you realize that, in the end, nothing matters. — Maxime Lagace
+> Thinking is difficult, that's why most people judge. — Carl Jung
 <!--END_SECTION:quote-->
 
 
