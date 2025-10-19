@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Thinking is difficult, that's why most people judge. — Carl Jung
+> Even the smallest person can change the course of the future. — J.R.R. Tolkien
 <!--END_SECTION:quote-->
 
 
