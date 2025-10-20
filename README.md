@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Even the smallest person can change the course of the future. — J.R.R. Tolkien
+> Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present. — George Bernard Shaw
 <!--END_SECTION:quote-->
 
 
