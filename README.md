@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present. — George Bernard Shaw
+> Some of us learn from other people's mistakes and the rest of us have to be other people.   — Zig Ziglar
 <!--END_SECTION:quote-->
 
 
