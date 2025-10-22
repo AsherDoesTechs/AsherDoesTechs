@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Some of us learn from other people's mistakes and the rest of us have to be other people.   — Zig Ziglar
+> Go confidently in the direction of your dreams! Live the life you've imagined. — Henry David Thoreau
 <!--END_SECTION:quote-->
 
 
