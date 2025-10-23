@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Go confidently in the direction of your dreams! Live the life you've imagined. — Henry David Thoreau
+> If I have seen further than others, it is by standing upon the shoulders of giants. — Isaac Newton
 <!--END_SECTION:quote-->
 
 
