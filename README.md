@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If I have seen further than others, it is by standing upon the shoulders of giants. — Isaac Newton
+> The greatest discovery of all time is that a person can change their future by merely changing their attitude. — Oprah Winfrey
 <!--END_SECTION:quote-->
 
 
