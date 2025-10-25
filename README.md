@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The greatest discovery of all time is that a person can change their future by merely changing their attitude. — Oprah Winfrey
+> Believe you can and you're halfway there. — Theodore Roosevelt
 <!--END_SECTION:quote-->
 
 
