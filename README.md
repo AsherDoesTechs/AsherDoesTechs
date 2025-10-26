@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Believe you can and you're halfway there. — Theodore Roosevelt
+> A man sooner or later discovers that he is the master-gardener of his soul, the director of his life. — James Allen
 <!--END_SECTION:quote-->
 
 
