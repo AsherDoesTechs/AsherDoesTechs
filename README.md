@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A man sooner or later discovers that he is the master-gardener of his soul, the director of his life. — James Allen
+> The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune.  — Charles Swindoll
 <!--END_SECTION:quote-->
 
 
