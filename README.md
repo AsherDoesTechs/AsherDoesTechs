@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune.  — Charles Swindoll
+> Only in the agony of parting do we look into the depths of love. — George Eliot
 <!--END_SECTION:quote-->
 
 
