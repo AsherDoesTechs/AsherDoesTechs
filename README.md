@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Only in the agony of parting do we look into the depths of love. — George Eliot
+> The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions. — Steve Maraboli
 <!--END_SECTION:quote-->
 
 
