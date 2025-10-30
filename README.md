@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions. — Steve Maraboli
+> A clear conscience never fears midnight knocking. — Chinese Proverb
 <!--END_SECTION:quote-->
 
 
