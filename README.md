@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A clear conscience never fears midnight knocking. — Chinese Proverb
+> A wise man will be master of his mind, a fool will be its slave. — Publilius Syrus
 <!--END_SECTION:quote-->
 
 
