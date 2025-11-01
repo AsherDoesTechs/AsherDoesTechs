@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A wise man will be master of his mind, a fool will be its slave. — Publilius Syrus
+> Whatever your mind can conceive and believe, it can achieve. — Napoleon Hill
 <!--END_SECTION:quote-->
 
 
