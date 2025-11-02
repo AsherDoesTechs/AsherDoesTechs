@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Whatever your mind can conceive and believe, it can achieve. — Napoleon Hill
+> When you repeat a mistake, it is not a mistake anymore: it is a decision. — Paulo Coelho
 <!--END_SECTION:quote-->
 
 
