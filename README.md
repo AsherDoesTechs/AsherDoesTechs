@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> When you repeat a mistake, it is not a mistake anymore: it is a decision. — Paulo Coelho
+> The harder the conflict, the greater the triumph.  — George Washington
 <!--END_SECTION:quote-->
 
 
