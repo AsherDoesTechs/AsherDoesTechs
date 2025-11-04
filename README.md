@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The harder the conflict, the greater the triumph.  — George Washington
+> The fastest way to change is to laugh at your own folly. — Spencer Johnson
 <!--END_SECTION:quote-->
 
 
