@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The fastest way to change is to laugh at your own folly. — Spencer Johnson
+> Do something to move yourself toward your major goal every day. — Brian Tracy
 <!--END_SECTION:quote-->
 
 
