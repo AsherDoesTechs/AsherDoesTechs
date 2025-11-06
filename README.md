@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Do something to move yourself toward your major goal every day. — Brian Tracy
+> Extraordinary results happen only when you give the best you have to become the best you can be at your most important work. — Gary Keller
 <!--END_SECTION:quote-->
 
 
