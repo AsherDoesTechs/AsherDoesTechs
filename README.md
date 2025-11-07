@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Extraordinary results happen only when you give the best you have to become the best you can be at your most important work. — Gary Keller
+> I no doubt deserved my enemies, but I don't believe I deserved my friends. — Walt Whitman
 <!--END_SECTION:quote-->
 
 
