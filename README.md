@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Anyone telling you it's pointless to share your perspective is sharing their perspective. — Jack Butcher
+> In spite of everything, I shall rise again. — Vincent van Gogh
 <!--END_SECTION:quote-->
 
 
