@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> In spite of everything, I shall rise again. — Vincent van Gogh
+> Nothing has any power over me other than that which I give it through my conscious thoughts. — Tony Robbins
 <!--END_SECTION:quote-->
 
 
