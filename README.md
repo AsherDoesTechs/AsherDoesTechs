@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Nothing has any power over me other than that which I give it through my conscious thoughts. — Tony Robbins
+> Knowing is not enough, we must apply. Willing is not enough, we must do.   — Bruce Lee
 <!--END_SECTION:quote-->
 
 
