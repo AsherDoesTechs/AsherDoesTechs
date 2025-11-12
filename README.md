@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Knowing is not enough, we must apply. Willing is not enough, we must do.   — Bruce Lee
+> Change begets change. Nothing propagates so fast. — Charles Dickens
 <!--END_SECTION:quote-->
 
 
