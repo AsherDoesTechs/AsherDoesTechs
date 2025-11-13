@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Change begets change. Nothing propagates so fast. — Charles Dickens
+> The first step toward getting somewhere is to decide that you are not going to stay where you are. — Unknown
 <!--END_SECTION:quote-->
 
 
