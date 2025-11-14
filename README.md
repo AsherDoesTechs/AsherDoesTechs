@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The first step toward getting somewhere is to decide that you are not going to stay where you are. — Unknown
+> You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level. — Eckhart Tolle
 <!--END_SECTION:quote-->
 
 
