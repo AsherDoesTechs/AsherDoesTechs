@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level. — Eckhart Tolle
+> I have never let my schooling interfere with my education. — Mark Twain
 <!--END_SECTION:quote-->
 
 
