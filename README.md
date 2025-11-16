@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I have never let my schooling interfere with my education. — Mark Twain
+> Simple words, repeated daily, can change your life. — Maxime Lagace
 <!--END_SECTION:quote-->
 
 
