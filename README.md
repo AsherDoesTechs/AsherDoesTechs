@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Your success and happiness lie in you. — Helen Keller
+> Only by acceptance of the past, can you alter it. — T.S. Eliot
 <!--END_SECTION:quote-->
 
 
