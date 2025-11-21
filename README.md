@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Only by acceptance of the past, can you alter it. — T.S. Eliot
+> Death is not an ending. It is a transformation. — Ming-Dao Deng
 <!--END_SECTION:quote-->
 
 
