@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Death is not an ending. It is a transformation. — Ming-Dao Deng
+> Fear, uncertainty, and discomfort are your compasses toward growth. — Celestine Chua
 <!--END_SECTION:quote-->
 
 
