@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Fear, uncertainty, and discomfort are your compasses toward growth. — Celestine Chua
+> If anything is worth doing, do it with all your heart. — Buddha
 <!--END_SECTION:quote-->
 
 
