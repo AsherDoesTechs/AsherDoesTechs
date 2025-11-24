@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If anything is worth doing, do it with all your heart. — Buddha
+> Those who know, do. Those that understand, teach. — Aristotle
 <!--END_SECTION:quote-->
 
 
