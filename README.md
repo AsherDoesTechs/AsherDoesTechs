@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Those who know, do. Those that understand, teach. — Aristotle
+> When you win, say nothing, when you lose say less. — Wayne Gretzky
 <!--END_SECTION:quote-->
 
 
