@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> When you win, say nothing, when you lose say less. — Wayne Gretzky
+> We tend to live up to our expectations. — Earl Nightingale
 <!--END_SECTION:quote-->
 
 
