@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We tend to live up to our expectations. — Earl Nightingale
+> Be grateful for what you have now, and nothing should be taken for granted. — Roy T. Bennett
 <!--END_SECTION:quote-->
 
 
