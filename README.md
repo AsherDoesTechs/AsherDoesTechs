@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Be grateful for what you have now, and nothing should be taken for granted. — Roy T. Bennett
+> If you are going to achieve excellence in big things, you develop the habit in little matters. — Colin Powell
 <!--END_SECTION:quote-->
 
 
