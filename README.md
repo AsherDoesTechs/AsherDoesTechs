@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you are going to achieve excellence in big things, you develop the habit in little matters. — Colin Powell
+> Any idea, plan, or purpose may be placed in the mind through repetition of thought. — Napoleon Hill
 <!--END_SECTION:quote-->
 
 
