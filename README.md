@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Any idea, plan, or purpose may be placed in the mind through repetition of thought. — Napoleon Hill
+> If you build the guts to do something, anything, then you better save enough to face the consequences. — Criss Jami
 <!--END_SECTION:quote-->
 
 
