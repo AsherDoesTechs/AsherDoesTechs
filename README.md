@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you build the guts to do something, anything, then you better save enough to face the consequences. — Criss Jami
+> Charms strike the sight, but merit wins the soul. — Alexander Pope
 <!--END_SECTION:quote-->
 
 
