@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Charms strike the sight, but merit wins the soul. — Alexander Pope
+> It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy. — Sun Tzu
 <!--END_SECTION:quote-->
 
 
