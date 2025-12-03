@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy. — Sun Tzu
+> The search for happiness is one of the chief sources of unhappiness. — Eric Hoffer
 <!--END_SECTION:quote-->
 
 
