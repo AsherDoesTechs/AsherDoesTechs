@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The search for happiness is one of the chief sources of unhappiness. — Eric Hoffer
+> Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.  — Denis Waitley
 <!--END_SECTION:quote-->
 
 
