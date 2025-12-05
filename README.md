@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.  — Denis Waitley
+> Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy. — Wayne Gretzky
 <!--END_SECTION:quote-->
 
 
