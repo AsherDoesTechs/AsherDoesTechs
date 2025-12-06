@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy. — Wayne Gretzky
+> I have never in my life learned anything from any man who agreed with me. — Dudley Field Malone
 <!--END_SECTION:quote-->
 
 
