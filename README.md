@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I have never in my life learned anything from any man who agreed with me. — Dudley Field Malone
+> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. — Elbert Hubbard
 <!--END_SECTION:quote-->
 
 
