@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. — Elbert Hubbard
+> The wisest men follow their own direction. — Euripides
 <!--END_SECTION:quote-->
 
 
