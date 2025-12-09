@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The wisest men follow their own direction. — Euripides
+> He who is not contented with what he has, would not be contented with what he would like to have. — Socrates
 <!--END_SECTION:quote-->
 
 
