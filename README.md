@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> He who is not contented with what he has, would not be contented with what he would like to have. — Socrates
+> Creativity is intelligence having fun. — Albert Einstein
 <!--END_SECTION:quote-->
 
 
