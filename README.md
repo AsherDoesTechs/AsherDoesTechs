@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Creativity is intelligence having fun. — Albert Einstein
+> We are always complaining that our days are few, and acting as though there would be no end of them.   — Seneca
 <!--END_SECTION:quote-->
 
 
