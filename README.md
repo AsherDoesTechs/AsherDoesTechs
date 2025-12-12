@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We are always complaining that our days are few, and acting as though there would be no end of them.   — Seneca
+> I do not exist to impress the world. I exist to live my life in a way that will make me happy. — Richard Bach
 <!--END_SECTION:quote-->
 
 
