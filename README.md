@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I do not exist to impress the world. I exist to live my life in a way that will make me happy. — Richard Bach
+> Chase your passion, not your pension.  — Denis Waitley
 <!--END_SECTION:quote-->
 
 
