@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Chase your passion, not your pension.  — Denis Waitley
+> Man invented language to satisfy his deep need to complain. — Lily Tomlin
 <!--END_SECTION:quote-->
 
 
