@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Man invented language to satisfy his deep need to complain. — Lily Tomlin
+> Always try to be a little kinder than necessary. — James Matthew Barrie
 <!--END_SECTION:quote-->
 
 
