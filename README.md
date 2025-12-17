@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The future is the worst thing about the present. — Gustave Flaubert
+> Every drop in the ocean counts.  — Yoko Ono
 <!--END_SECTION:quote-->
 
 
