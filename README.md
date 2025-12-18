@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Every drop in the ocean counts.  — Yoko Ono
+> Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted. — Robert Collier
 <!--END_SECTION:quote-->
 
 
