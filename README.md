@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Make your life a mission - not an intermission. — Unknown
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential. — Winston Churchill
 <!--END_SECTION:quote-->
 
 
