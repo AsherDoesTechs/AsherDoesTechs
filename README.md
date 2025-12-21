@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Continuous effort - not strength or intelligence - is the key to unlocking our potential. — Winston Churchill
+> Nothing can survive without food. Everything we consume acts either to heal us or to poison us. — Thich Nhat Hanh
 <!--END_SECTION:quote-->
 
 
