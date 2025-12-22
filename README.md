@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Nothing can survive without food. Everything we consume acts either to heal us or to poison us. — Thich Nhat Hanh
+> Obstacles don't block the path, they are the path. — Zen Proverb
 <!--END_SECTION:quote-->
 
 
