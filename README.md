@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases. — Sathya Sai Baba
+> Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. — Spencer Johnson
 <!--END_SECTION:quote-->
 
 
