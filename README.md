@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. — Spencer Johnson
+> If you do not conquer self, you will be conquered by self. — Napoleon Hill
 <!--END_SECTION:quote-->
 
 
