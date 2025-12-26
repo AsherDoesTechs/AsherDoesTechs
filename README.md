@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you do not conquer self, you will be conquered by self. — Napoleon Hill
+> Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.  — Oprah Winfrey
 <!--END_SECTION:quote-->
 
 
