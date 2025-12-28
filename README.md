@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> When I let go of what I am, I become what I might be. — Lao Tzu
+> Appear weak when you are strong, and strong when you are weak. — Sun Tzu
 <!--END_SECTION:quote-->
 
 
