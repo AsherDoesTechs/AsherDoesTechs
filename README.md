@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Appear weak when you are strong, and strong when you are weak. — Sun Tzu
+> Peace begins with a smile. — Mother Teresa
 <!--END_SECTION:quote-->
 
 
