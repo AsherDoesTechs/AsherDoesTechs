@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Peace begins with a smile. — Mother Teresa
+> Don't let the fear of losing be greater than the excitement of winning. — Robert Kiyosaki
 <!--END_SECTION:quote-->
 
 
