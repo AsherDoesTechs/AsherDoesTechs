@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Don't let the fear of losing be greater than the excitement of winning. — Robert Kiyosaki
+> Argue for your limitations and sure enough, they're yours. — Richard Bach
 <!--END_SECTION:quote-->
 
 
