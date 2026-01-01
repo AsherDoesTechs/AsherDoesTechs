@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Argue for your limitations and sure enough, they're yours. — Richard Bach
+> We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change. — Mark Manson
 <!--END_SECTION:quote-->
 
 
