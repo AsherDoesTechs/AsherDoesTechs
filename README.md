@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change. — Mark Manson
+> True love stories never have endings. — Richard Bach
 <!--END_SECTION:quote-->
 
 
