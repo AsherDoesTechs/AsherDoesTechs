@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> True love stories never have endings. — Richard Bach
+> I will not walk backward in life. — J.R.R. Tolkien
 <!--END_SECTION:quote-->
 
 
