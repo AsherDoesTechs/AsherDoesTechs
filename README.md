@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I will not walk backward in life. — J.R.R. Tolkien
+> All men are equal before fish. — Herbert Hoover
 <!--END_SECTION:quote-->
 
 
