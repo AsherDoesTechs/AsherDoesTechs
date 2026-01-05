@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> All men are equal before fish. — Herbert Hoover
+> Let not your mind run on what you lack as much as on what you have already. — Marcus Aurelius
 <!--END_SECTION:quote-->
 
 
