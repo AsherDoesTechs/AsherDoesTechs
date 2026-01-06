@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Let not your mind run on what you lack as much as on what you have already. — Marcus Aurelius
+> Life moves on and so should we. — Spencer Johnson
 <!--END_SECTION:quote-->
 
 
