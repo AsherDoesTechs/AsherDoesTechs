@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Life moves on and so should we. — Spencer Johnson
+> Dreams provide nourishment for the soul, just as a meal does for the body. — Paulo Coelho
 <!--END_SECTION:quote-->
 
 
