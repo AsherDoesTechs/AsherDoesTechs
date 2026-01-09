@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Only by acceptance of the past, can you alter it. — T.S. Eliot
+> When you reach the top of the mountain, keep climbing.  — Zen Proverb
 <!--END_SECTION:quote-->
 
 
