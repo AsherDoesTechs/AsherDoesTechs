@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> When you reach the top of the mountain, keep climbing.  — Zen Proverb
+> When you have to make a choice and don't make it, that is in itself a choice. — William James
 <!--END_SECTION:quote-->
 
 
