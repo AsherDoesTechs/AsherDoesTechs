@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> When you have to make a choice and don't make it, that is in itself a choice. — William James
+> Nothing has any power over me other than that which I give it through my conscious thoughts. — Tony Robbins
 <!--END_SECTION:quote-->
 
 
