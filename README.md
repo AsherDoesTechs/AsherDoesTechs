@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Nothing has any power over me other than that which I give it through my conscious thoughts. — Tony Robbins
+> It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. — Dalai Lama
 <!--END_SECTION:quote-->
 
 
