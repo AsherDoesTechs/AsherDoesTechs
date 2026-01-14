@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> My definition of success is control. — Kenneth Branagh
+> There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow.  — Orison Swett Marden
 <!--END_SECTION:quote-->
 
 
