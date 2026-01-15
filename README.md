@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow.  — Orison Swett Marden
+> Always seek out the seed of triumph in every adversity. — Og Mandino
 <!--END_SECTION:quote-->
 
 
