@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Always seek out the seed of triumph in every adversity. — Og Mandino
+> Troubles are often the tools by which God fashions us for better things. — Henry Ward Beecher
 <!--END_SECTION:quote-->
 
 
