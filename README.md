@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Troubles are often the tools by which God fashions us for better things. — Henry Ward Beecher
+> Be regular and orderly in your life, so that you may be violent and original in your work. — Gustave Flaubert
 <!--END_SECTION:quote-->
 
 
