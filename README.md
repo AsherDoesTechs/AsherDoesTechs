@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Be regular and orderly in your life, so that you may be violent and original in your work. — Gustave Flaubert
+> Learn only how to avoid seeking for and attaching yourselves to anything. — Huang Po
 <!--END_SECTION:quote-->
 
 
