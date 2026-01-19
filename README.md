@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Learn only how to avoid seeking for and attaching yourselves to anything. — Huang Po
+> We meet ourselves time and again in a thousand disguises on the path of life. — Carl Jung
 <!--END_SECTION:quote-->
 
 
