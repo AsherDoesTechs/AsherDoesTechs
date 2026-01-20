@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We meet ourselves time and again in a thousand disguises on the path of life. — Carl Jung
+> Motivation is what gets you started. Habit is what keeps you going. — Jim Rohn
 <!--END_SECTION:quote-->
 
 
