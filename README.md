@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Motivation is what gets you started. Habit is what keeps you going. — Jim Rohn
+> They who have conquered doubt and fear have conquered failure. — James Allen
 <!--END_SECTION:quote-->
 
 
