@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> They who have conquered doubt and fear have conquered failure. — James Allen
+> The world is a puzzle; no need to make sense out of it. — Socrates
 <!--END_SECTION:quote-->
 
 
