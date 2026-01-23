@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The world is a puzzle; no need to make sense out of it. — Socrates
+> Fear is what stops you. Courage is what keeps you going. — Unknown
 <!--END_SECTION:quote-->
 
 
