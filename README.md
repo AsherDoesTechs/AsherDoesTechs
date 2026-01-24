@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Fear is what stops you. Courage is what keeps you going. — Unknown
+> Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work. — John Eliot
 <!--END_SECTION:quote-->
 
 
