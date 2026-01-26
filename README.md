@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Everything flows, nothing stands still. — Heraclitus
+> The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts. — George Bernard Shaw
 <!--END_SECTION:quote-->
 
 
