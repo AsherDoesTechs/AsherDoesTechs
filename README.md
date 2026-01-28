@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> It doesn't matter where you are, you are nowhere compared to where you can go. — Bob Proctor
+> Not until we are lost do we begin to understand ourselves. — Henry David Thoreau
 <!--END_SECTION:quote-->
 
 
