@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Not until we are lost do we begin to understand ourselves. — Henry David Thoreau
+> Talent is luck. The important thing in life is courage. — Woody Allen
 <!--END_SECTION:quote-->
 
 
