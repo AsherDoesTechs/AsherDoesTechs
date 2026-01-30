@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Talent is luck. The important thing in life is courage. — Woody Allen
+> If I can stop one heart from breaking, I shall not live in vain. — Emily Dickinson
 <!--END_SECTION:quote-->
 
 
