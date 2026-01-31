@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If I can stop one heart from breaking, I shall not live in vain. — Emily Dickinson
+> You have power over your mind - not outside events. Realize this, and you will find strength. — Marcus Aurelius
 <!--END_SECTION:quote-->
 
 
