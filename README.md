@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You have power over your mind - not outside events. Realize this, and you will find strength. — Marcus Aurelius
+> Great ones are willing to get burned time and again as they sharpen their swords in the fire. — Josh Waitzkin
 <!--END_SECTION:quote-->
 
 
