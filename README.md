@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Great ones are willing to get burned time and again as they sharpen their swords in the fire. — Josh Waitzkin
+> If you are ever the smartest person in the room, you are in the wrong room. — C. Sean McGee
 <!--END_SECTION:quote-->
 
 
