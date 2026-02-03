@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you are ever the smartest person in the room, you are in the wrong room. — C. Sean McGee
+> To seek greatness is the only righteous vengeance. — Criss Jami
 <!--END_SECTION:quote-->
 
 
