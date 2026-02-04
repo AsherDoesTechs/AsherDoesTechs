@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> To seek greatness is the only righteous vengeance. — Criss Jami
+> Storms don't last forever. — Unknown
 <!--END_SECTION:quote-->
 
 
