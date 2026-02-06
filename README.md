@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The more you take responsibility for your past and present, the more you are able to create the future you seek. — Celestine Chua
+> You are the only problem you will ever have and you are the only solution. — Bob Proctor
 <!--END_SECTION:quote-->
 
 
