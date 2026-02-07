@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You are the only problem you will ever have and you are the only solution. — Bob Proctor
+> There are no differences but differences of degree between different degrees of difference and no difference. — William James
 <!--END_SECTION:quote-->
 
 
