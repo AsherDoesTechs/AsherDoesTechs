@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> There are no differences but differences of degree between different degrees of difference and no difference. — William James
+> Creative people are often found either disagreeable or intimidating by mediocrities. — Criss Jami
 <!--END_SECTION:quote-->
 
 
