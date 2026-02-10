@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Inner peace is when you realize that, in the end, nothing matters. — Maxime Lagace
+> The harder the conflict, the greater the triumph.  — George Washington
 <!--END_SECTION:quote-->
 
 
