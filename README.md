@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The harder the conflict, the greater the triumph.  — George Washington
+> You will have bad times, but they will always wake you up to the stuff you weren't paying attention to. — Robin Williams
 <!--END_SECTION:quote-->
 
 
