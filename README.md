@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today. — Steve Maraboli
+> One is never afraid of the unknown; one is afraid of the known coming to an end. — Jiddu Krishnamurti
 <!--END_SECTION:quote-->
 
 
