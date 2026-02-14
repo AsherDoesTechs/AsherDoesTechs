@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> One is never afraid of the unknown; one is afraid of the known coming to an end. — Jiddu Krishnamurti
+> You know you are on the road to success if you would do your job and not be paid for it. — Oprah Winfrey
 <!--END_SECTION:quote-->
 
 
