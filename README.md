@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You know you are on the road to success if you would do your job and not be paid for it. — Oprah Winfrey
+> I succeeded by saying what everyone else is thinking. — Joan Rivers
 <!--END_SECTION:quote-->
 
 
