@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I succeeded by saying what everyone else is thinking. — Joan Rivers
+> Saying nothing sometimes says the most. — Emily Dickinson
 <!--END_SECTION:quote-->
 
 
