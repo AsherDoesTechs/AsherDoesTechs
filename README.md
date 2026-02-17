@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Saying nothing sometimes says the most. — Emily Dickinson
+> I hear and I forget. I see and I remember. I do and I understand.  — Confucius
 <!--END_SECTION:quote-->
 
 
