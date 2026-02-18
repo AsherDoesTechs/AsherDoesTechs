@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I hear and I forget. I see and I remember. I do and I understand.  — Confucius
+> I put my heart and soul into my work, and I have lost my mind in the process. — Vincent van Gogh
 <!--END_SECTION:quote-->
 
 
