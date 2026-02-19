@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I put my heart and soul into my work, and I have lost my mind in the process. — Vincent van Gogh
+> The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about. — Naval Ravikant
 <!--END_SECTION:quote-->
 
 
