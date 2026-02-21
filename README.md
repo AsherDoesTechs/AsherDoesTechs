@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Whatever your mind can conceive and believe, it can achieve. — Napoleon Hill
+> A diamond is a piece of charcoal that handled stress exceptionally well. — Unknown
 <!--END_SECTION:quote-->
 
 
