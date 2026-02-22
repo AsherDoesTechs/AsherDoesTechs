@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A diamond is a piece of charcoal that handled stress exceptionally well. — Unknown
+> Dream big. Start small. But most of all, start. — Simon Sinek
 <!--END_SECTION:quote-->
 
 
