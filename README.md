@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Dream big. Start small. But most of all, start. — Simon Sinek
+> Becoming a great leader doesn't mean being perfect. it means living with your imperfections. — Lolly Daskal
 <!--END_SECTION:quote-->
 
 
