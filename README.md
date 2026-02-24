@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Becoming a great leader doesn't mean being perfect. it means living with your imperfections. — Lolly Daskal
+> Respect is earned by effort not age, all things age without effort. — C. Sean McGee
 <!--END_SECTION:quote-->
 
 
