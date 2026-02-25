@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Respect is earned by effort not age, all things age without effort. — C. Sean McGee
+> We are willing to believe anything other than the truth. — Carlos Ruiz Zafon
 <!--END_SECTION:quote-->
 
 
