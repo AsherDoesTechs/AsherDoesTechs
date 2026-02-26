@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We are willing to believe anything other than the truth. — Carlos Ruiz Zafon
+> The greatest deception men suffer is from their own opinions. — Leonardo da Vinci
 <!--END_SECTION:quote-->
 
 
