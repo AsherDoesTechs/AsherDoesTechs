@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The greatest deception men suffer is from their own opinions. — Leonardo da Vinci
+> Successful people tend to become more successful because they are always thinking about their successes. — Brian Tracy
 <!--END_SECTION:quote-->
 
 
