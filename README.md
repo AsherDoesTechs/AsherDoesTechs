@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Successful people tend to become more successful because they are always thinking about their successes. — Brian Tracy
+> The positive thinker sees the invisible, feels the intangible, and achieves the impossible. — Winston Churchill
 <!--END_SECTION:quote-->
 
 
