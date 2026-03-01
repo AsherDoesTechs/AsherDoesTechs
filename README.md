@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The positive thinker sees the invisible, feels the intangible, and achieves the impossible. — Winston Churchill
+> Learn only how to avoid seeking for and attaching yourselves to anything. — Huang Po
 <!--END_SECTION:quote-->
 
 
