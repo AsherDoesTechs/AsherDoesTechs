@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Learn only how to avoid seeking for and attaching yourselves to anything. — Huang Po
+> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. — Henry Ford
 <!--END_SECTION:quote-->
 
 
