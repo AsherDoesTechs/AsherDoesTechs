@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. — Henry Ford
+> To be calm is the highest achievement of the self. — Zen Proverb
 <!--END_SECTION:quote-->
 
 
