@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> To be calm is the highest achievement of the self. — Zen Proverb
+> Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution. — Kahlil Gibran
 <!--END_SECTION:quote-->
 
 
