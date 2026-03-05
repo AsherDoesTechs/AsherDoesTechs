@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution. — Kahlil Gibran
+> Man suffers only because he takes seriously what the gods made for fun. — Alan Watts
 <!--END_SECTION:quote-->
 
 
