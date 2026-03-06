@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Man suffers only because he takes seriously what the gods made for fun. — Alan Watts
+> To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others. — Criss Jami
 <!--END_SECTION:quote-->
 
 
