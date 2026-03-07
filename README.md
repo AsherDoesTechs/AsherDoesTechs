@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others. — Criss Jami
+> You are not one person, but three: The one you think you are; The one others think you are; The one you really are. — Sathya Sai Baba
 <!--END_SECTION:quote-->
 
 
