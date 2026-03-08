@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You are not one person, but three: The one you think you are; The one others think you are; The one you really are. — Sathya Sai Baba
+> A self that goes on changing is a self that goes on living. — Virginia Woolf
 <!--END_SECTION:quote-->
 
 
