@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A self that goes on changing is a self that goes on living. — Virginia Woolf
+> Wake up and smile! Wake up and be grateful! — Steve Harvey
 <!--END_SECTION:quote-->
 
 
