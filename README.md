@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Wake up and smile! Wake up and be grateful! — Steve Harvey
+> One never does wrong by doing right. — Norman Vincent Peale
 <!--END_SECTION:quote-->
 
 
