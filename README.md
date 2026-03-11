@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> One never does wrong by doing right. — Norman Vincent Peale
+> Focus on how far you have come in life rather than looking at the accomplishments of others. — Lolly Daskal
 <!--END_SECTION:quote-->
 
 
