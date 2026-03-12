@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Focus on how far you have come in life rather than looking at the accomplishments of others. — Lolly Daskal
+> If fear is too strong, the genius is suppressed. — Robert Kiyosaki
 <!--END_SECTION:quote-->
 
 
