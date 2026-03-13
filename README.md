@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If fear is too strong, the genius is suppressed. — Robert Kiyosaki
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.  — Charles Swindoll
 <!--END_SECTION:quote-->
 
 
