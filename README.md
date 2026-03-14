@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.  — Charles Swindoll
+> The time is always right to do what is right. — Martin Luther King, Jr.
 <!--END_SECTION:quote-->
 
 
