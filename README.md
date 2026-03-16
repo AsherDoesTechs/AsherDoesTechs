@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play. — Alan Watts
+> The health of nations is more important than the wealth of nations. — Will Rogers
 <!--END_SECTION:quote-->
 
 
