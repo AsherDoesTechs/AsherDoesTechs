@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The health of nations is more important than the wealth of nations. — Will Rogers
+> The goal is not to show how great you are to others, but how vulnerable you are to yourself. — Maxime Lagace
 <!--END_SECTION:quote-->
 
 
