@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The goal is not to show how great you are to others, but how vulnerable you are to yourself. — Maxime Lagace
+> Be happy now, without reason - or you never will be at all. — Dan Millman
 <!--END_SECTION:quote-->
 
 
