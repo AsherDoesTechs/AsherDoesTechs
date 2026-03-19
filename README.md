@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Be happy now, without reason - or you never will be at all. — Dan Millman
+> Let each man exercise the art he knows. — Aristophanes
 <!--END_SECTION:quote-->
 
 
