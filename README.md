@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Let each man exercise the art he knows. — Aristophanes
+> Be approximately right rather than exactly wrong. — John Tukey
 <!--END_SECTION:quote-->
 
 
