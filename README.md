@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Be approximately right rather than exactly wrong. — John Tukey
+> It is only depth of character that determines the profundity with which we face life. — Ming-Dao Deng
 <!--END_SECTION:quote-->
 
 
