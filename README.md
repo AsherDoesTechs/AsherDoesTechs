@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> It is only depth of character that determines the profundity with which we face life. — Ming-Dao Deng
+> Write to help yourself, publish to help others. — Jack Butcher
 <!--END_SECTION:quote-->
 
 
