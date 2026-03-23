@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Write to help yourself, publish to help others. — Jack Butcher
+> The chief enemy of creativity is good sense. — Pablo Picasso
 <!--END_SECTION:quote-->
 
 
