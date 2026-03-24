@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The chief enemy of creativity is good sense. — Pablo Picasso
+> Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it! — Sathya Sai Baba
 <!--END_SECTION:quote-->
 
 
