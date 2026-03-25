@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it! — Sathya Sai Baba
+> Winners are not people who never fail, but people who never quit. — Arnold Schwarzenegger
 <!--END_SECTION:quote-->
 
 
