@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Winners are not people who never fail, but people who never quit. — Arnold Schwarzenegger
+> Even the smallest person can change the course of the future. — J.R.R. Tolkien
 <!--END_SECTION:quote-->
 
 
