@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Even the smallest person can change the course of the future. — J.R.R. Tolkien
+> Life is but one dream flowing into another. — Ming-Dao Deng
 <!--END_SECTION:quote-->
 
 
