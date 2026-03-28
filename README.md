@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Life is but one dream flowing into another. — Ming-Dao Deng
+> Motivation is what gets you started. Habit is what keeps you going. — Jim Rohn
 <!--END_SECTION:quote-->
 
 
