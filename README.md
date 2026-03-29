@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Motivation is what gets you started. Habit is what keeps you going. — Jim Rohn
+> The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be. — Yanni
 <!--END_SECTION:quote-->
 
 
