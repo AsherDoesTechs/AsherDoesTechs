@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be. — Yanni
+> You cannot change your destination overnight but you can change your direction overnight. — Jim Rohn
 <!--END_SECTION:quote-->
 
 
