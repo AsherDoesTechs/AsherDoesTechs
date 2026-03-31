@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You cannot change your destination overnight but you can change your direction overnight. — Jim Rohn
+> Where the willingness is great, the difficulties cannot be great. — Niccolo Machiavelli
 <!--END_SECTION:quote-->
 
 
