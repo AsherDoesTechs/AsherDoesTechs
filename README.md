@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Where the willingness is great, the difficulties cannot be great. — Niccolo Machiavelli
+> Avoiding failure is to avoid progress. — Unknown
 <!--END_SECTION:quote-->
 
 
