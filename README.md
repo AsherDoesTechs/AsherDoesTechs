@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Avoiding failure is to avoid progress. — Unknown
+> Passion is born deaf and dumb. — Honore de Balzac
 <!--END_SECTION:quote-->
 
 
