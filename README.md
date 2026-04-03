@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Passion is born deaf and dumb. — Honore de Balzac
+> Death and life have their determined appointments; riches and honors depend upon heaven.  — Confucius
 <!--END_SECTION:quote-->
 
 
