@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Death and life have their determined appointments; riches and honors depend upon heaven.  — Confucius
+> Hope means hoping when everything seems hopeless. — Gilbert Chesterton
 <!--END_SECTION:quote-->
 
 
