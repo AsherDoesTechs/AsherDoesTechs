@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Tension is who you think you should be. Relaxation is who you are. — Chinese Proverb
+> Success is about creating value. — Candice Carpenter
 <!--END_SECTION:quote-->
 
 
