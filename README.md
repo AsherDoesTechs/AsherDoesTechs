@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Success is about creating value. — Candice Carpenter
+> 
 <!--END_SECTION:quote-->
 
 
