@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> 
+> A person is only by the thoughts that he chooses. — James Allen
 <!--END_SECTION:quote-->
 
 
