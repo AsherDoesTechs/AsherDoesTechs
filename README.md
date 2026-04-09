@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A person is only by the thoughts that he chooses. — James Allen
+> Death smiles at us all. All we can do is smile back. — Marcus Aurelius
 <!--END_SECTION:quote-->
 
 
