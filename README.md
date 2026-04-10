@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Death smiles at us all. All we can do is smile back. — Marcus Aurelius
+> There is no path to Love. Love is the path. — Dan Millman
 <!--END_SECTION:quote-->
 
 
