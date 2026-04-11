@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> There is no path to Love. Love is the path. — Dan Millman
+> We shape clay into a pot, but it is the emptiness inside that holds whatever we want. — Lao Tzu
 <!--END_SECTION:quote-->
 
 
