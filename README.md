@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We shape clay into a pot, but it is the emptiness inside that holds whatever we want. — Lao Tzu
+> We are like islands in the sea, separate on the surface but connected in the deep. — William James
 <!--END_SECTION:quote-->
 
 
