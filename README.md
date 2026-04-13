@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We are like islands in the sea, separate on the surface but connected in the deep. — William James
+> Pain doesn't last. And when it's gone, we have something to show for it. Growth. — Kamal Ravikant
 <!--END_SECTION:quote-->
 
 
