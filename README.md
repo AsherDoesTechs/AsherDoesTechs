@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Pain doesn't last. And when it's gone, we have something to show for it. Growth. — Kamal Ravikant
+> A strong man overcomes an obstacle, a wise man goes the whole way. — Zen Proverb
 <!--END_SECTION:quote-->
 
 
