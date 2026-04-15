@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A strong man overcomes an obstacle, a wise man goes the whole way. — Zen Proverb
+> The more you take responsibility for your past and present, the more you are able to create the future you seek. — Celestine Chua
 <!--END_SECTION:quote-->
 
 
