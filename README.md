@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The more you take responsibility for your past and present, the more you are able to create the future you seek. — Celestine Chua
+> It is better to be looked over than overlooked. — Mae West
 <!--END_SECTION:quote-->
 
 
