@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> It is better to be looked over than overlooked. — Mae West
+> Some people are old at 18 and some are young at 90. Time is a concept that humans created. — Yoko Ono
 <!--END_SECTION:quote-->
 
 
