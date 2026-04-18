@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Some people are old at 18 and some are young at 90. Time is a concept that humans created. — Yoko Ono
+> Don't give up the fight, Stand up for your rights. — Bob Marley
 <!--END_SECTION:quote-->
 
 
