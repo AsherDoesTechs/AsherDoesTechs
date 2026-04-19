@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Don't give up the fight, Stand up for your rights. — Bob Marley
+> A man sees in the world what he carries in his heart. — Johann Wolfgang von Goethe
 <!--END_SECTION:quote-->
 
 
