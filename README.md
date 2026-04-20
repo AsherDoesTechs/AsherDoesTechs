@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A man sees in the world what he carries in his heart. — Johann Wolfgang von Goethe
+> The older you get, the more you understand how your conscience works. — Criss Jami
 <!--END_SECTION:quote-->
 
 
