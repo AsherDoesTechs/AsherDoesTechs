@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The older you get, the more you understand how your conscience works. — Criss Jami
+> I pay attention to every minute of the day. — Steve Harvey
 <!--END_SECTION:quote-->
 
 
