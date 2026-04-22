@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I pay attention to every minute of the day. — Steve Harvey
+> A goal is a dream with a deadline. — Napoleon Hill
 <!--END_SECTION:quote-->
 
 
