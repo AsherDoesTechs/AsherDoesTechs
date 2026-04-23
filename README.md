@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A goal is a dream with a deadline. — Napoleon Hill
+> Excellence is not an exception, it is a prevailing attitude. — Colin Powell
 <!--END_SECTION:quote-->
 
 
