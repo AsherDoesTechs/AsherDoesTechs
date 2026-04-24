@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Excellence is not an exception, it is a prevailing attitude. — Colin Powell
+> Gratitude is the fairest blossom which springs from the soul. — Henry Ward Beecher
 <!--END_SECTION:quote-->
 
 
