@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Gratitude is the fairest blossom which springs from the soul. — Henry Ward Beecher
+> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. — Thomas Edison
 <!--END_SECTION:quote-->
 
 
