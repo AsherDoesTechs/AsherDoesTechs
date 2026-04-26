@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. — Thomas Edison
+> Arise, slay thy enemies, enjoy a prosperous kingdom. — Bhagavad Gita
 <!--END_SECTION:quote-->
 
 
