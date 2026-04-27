@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Arise, slay thy enemies, enjoy a prosperous kingdom. — Bhagavad Gita
+> I don't pretend to know everything; I just only speak on matters I know I'll win. — Criss Jami
 <!--END_SECTION:quote-->
 
 
