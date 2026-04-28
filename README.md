@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I don't pretend to know everything; I just only speak on matters I know I'll win. — Criss Jami
+> To love means loving the unlovable. — Gilbert Chesterton
 <!--END_SECTION:quote-->
 
 
