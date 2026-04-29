@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> To love means loving the unlovable. — Gilbert Chesterton
+> Blessed is he who expects nothing, for he shall never be disappointed. — Alexander Pope
 <!--END_SECTION:quote-->
 
 
