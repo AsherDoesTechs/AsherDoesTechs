@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Blessed is he who expects nothing, for he shall never be disappointed. — Alexander Pope
+> The only defense against the world is a thorough knowledge of it. — John Locke
 <!--END_SECTION:quote-->
 
 
