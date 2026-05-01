@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The only defense against the world is a thorough knowledge of it. — John Locke
+> We must be free not because we claim freedom, but because we practice it. — William Faulkner
 <!--END_SECTION:quote-->
 
 
