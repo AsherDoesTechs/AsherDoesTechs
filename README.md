@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We must be free not because we claim freedom, but because we practice it. — William Faulkner
+> We are always complaining that our days are few, and acting as though there would be no end of them.   — Seneca
 <!--END_SECTION:quote-->
 
 
