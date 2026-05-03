@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We are always complaining that our days are few, and acting as though there would be no end of them.   — Seneca
+> Sometimes out of your biggest misery, comes your greatest gain. — Steve Harvey
 <!--END_SECTION:quote-->
 
 
