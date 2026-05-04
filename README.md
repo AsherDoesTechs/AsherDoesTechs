@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Sometimes out of your biggest misery, comes your greatest gain. — Steve Harvey
+> I will not walk backward in life. — J.R.R. Tolkien
 <!--END_SECTION:quote-->
 
 
