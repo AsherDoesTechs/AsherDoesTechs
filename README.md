@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I will not walk backward in life. — J.R.R. Tolkien
+> It is truth that liberates, not your effort to be free. — Jiddu Krishnamurti
 <!--END_SECTION:quote-->
 
 
