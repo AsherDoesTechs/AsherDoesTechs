@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> It is truth that liberates, not your effort to be free. — Jiddu Krishnamurti
+> When you reach the end of your rope, tie a knot in it and hang on. — Franklin D. Roosevelt
 <!--END_SECTION:quote-->
 
 
