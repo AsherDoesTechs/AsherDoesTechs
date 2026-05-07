@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> When you reach the end of your rope, tie a knot in it and hang on. — Franklin D. Roosevelt
+> Inspiration exists, but it has to find you working. — Pablo Picasso
 <!--END_SECTION:quote-->
 
 
