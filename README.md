@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Inspiration exists, but it has to find you working. — Pablo Picasso
+> Always focus on the front windshield and not the rear view mirror. — Colin Powell
 <!--END_SECTION:quote-->
 
 
