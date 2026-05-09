@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Always focus on the front windshield and not the rear view mirror. — Colin Powell
+> You can do nothing to change the past, and the future will never come exactly as you plan or hope for. — Dan Millman
 <!--END_SECTION:quote-->
 
 
