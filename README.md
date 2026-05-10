@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You can do nothing to change the past, and the future will never come exactly as you plan or hope for. — Dan Millman
+> Intense love does not measure, it just gives. — Mother Teresa
 <!--END_SECTION:quote-->
 
 
