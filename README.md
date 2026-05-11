@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Intense love does not measure, it just gives. — Mother Teresa
+> Attitude drives actions. Actions drive results. Results drive lifestyles. — Jim Rohn
 <!--END_SECTION:quote-->
 
 
