@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Attitude drives actions. Actions drive results. Results drive lifestyles. — Jim Rohn
+> Where violence reigns, reason is weak. — Nicolas Chamfort
 <!--END_SECTION:quote-->
 
 
