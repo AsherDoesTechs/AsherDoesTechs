@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Where violence reigns, reason is weak. — Nicolas Chamfort
+> It all depends on what you choose to believe. — Spencer Johnson
 <!--END_SECTION:quote-->
 
 
