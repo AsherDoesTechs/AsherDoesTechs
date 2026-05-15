@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> It all depends on what you choose to believe. — Spencer Johnson
+> To be totally at leisure for one day is to be immortal for one day.  — Chinese Proverb
 <!--END_SECTION:quote-->
 
 
