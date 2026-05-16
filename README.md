@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> To be totally at leisure for one day is to be immortal for one day.  — Chinese Proverb
+> Life is like stepping onto a boat which is about to sail out to sea and sink. — Shunryu Suzuki
 <!--END_SECTION:quote-->
 
 
