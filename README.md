@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Life is like stepping onto a boat which is about to sail out to sea and sink. — Shunryu Suzuki
+> Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it. — George Eliot
 <!--END_SECTION:quote-->
 
 
