@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it. — George Eliot
+> It's the job that's never started that takes the longest to finish. — J.R.R. Tolkien
 <!--END_SECTION:quote-->
 
 
