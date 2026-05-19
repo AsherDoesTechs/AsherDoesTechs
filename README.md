@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> It's the job that's never started that takes the longest to finish. — J.R.R. Tolkien
+> If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness. — Unknown
 <!--END_SECTION:quote-->
 
 
