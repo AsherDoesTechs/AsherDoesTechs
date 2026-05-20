@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness. — Unknown
+> Do not regret the past. Look to the future. — Soyen Shaku
 <!--END_SECTION:quote-->
 
 
