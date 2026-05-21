@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Do not regret the past. Look to the future. — Soyen Shaku
+> Success is good at any age, but the sooner you find it, the longer you will enjoy it. — Napoleon Hill
 <!--END_SECTION:quote-->
 
 
