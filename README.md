@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Success is good at any age, but the sooner you find it, the longer you will enjoy it. — Napoleon Hill
+> We need never be ashamed of our tears. — Charles Dickens
 <!--END_SECTION:quote-->
 
 
