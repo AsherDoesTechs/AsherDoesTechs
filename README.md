@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We need never be ashamed of our tears. — Charles Dickens
+> Without struggle, no progress and no result. Every breaking of habit produces a change in the machine. — G.I. Gurdjieff
 <!--END_SECTION:quote-->
 
 
