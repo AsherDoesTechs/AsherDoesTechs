@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Without struggle, no progress and no result. Every breaking of habit produces a change in the machine. — G.I. Gurdjieff
+> From the errors of others, a wise man corrects his own. — Publilius Syrus
 <!--END_SECTION:quote-->
 
 
