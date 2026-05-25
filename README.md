@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> From the errors of others, a wise man corrects his own. — Publilius Syrus
+> Strive for excellence, not perfection, because we don't live in a perfect world. — Joyce Meyer
 <!--END_SECTION:quote-->
 
 
