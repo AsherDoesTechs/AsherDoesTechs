@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Strive for excellence, not perfection, because we don't live in a perfect world. — Joyce Meyer
+> See what you're doing wrong, laugh at it, change and do better. — Spencer Johnson
 <!--END_SECTION:quote-->
 
 
