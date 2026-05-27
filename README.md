@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> See what you're doing wrong, laugh at it, change and do better. — Spencer Johnson
+> Most great people have achieved their greatest success just one step beyond their greatest failure. — Napoleon Hill
 <!--END_SECTION:quote-->
 
 
