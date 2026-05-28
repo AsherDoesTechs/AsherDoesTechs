@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Most great people have achieved their greatest success just one step beyond their greatest failure. — Napoleon Hill
+> Be strong. Be confident. Be the star of your own life. — Estee Lauder
 <!--END_SECTION:quote-->
 
 
