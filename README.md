@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Be strong. Be confident. Be the star of your own life. — Estee Lauder
+> Be willing to be a beginner every single morning. — Meister Eckhart
 <!--END_SECTION:quote-->
 
 
