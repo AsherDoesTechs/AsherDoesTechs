@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Be willing to be a beginner every single morning. — Meister Eckhart
+> No man will make a great leader who wants to do it all himself or to get all the credit for doing it. — Andrew Carnegie
 <!--END_SECTION:quote-->
 
 
