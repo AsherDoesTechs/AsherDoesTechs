@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> No man will make a great leader who wants to do it all himself or to get all the credit for doing it. — Andrew Carnegie
+> The number one cause of failure is the fear of failure. — Steve Harvey
 <!--END_SECTION:quote-->
 
 
