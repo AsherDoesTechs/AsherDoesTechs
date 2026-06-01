@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The number one cause of failure is the fear of failure. — Steve Harvey
+> Where there is anger, there is always pain underneath. — Eckhart Tolle
 <!--END_SECTION:quote-->
 
 
