@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Where there is anger, there is always pain underneath. — Eckhart Tolle
+> There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return. — Nelson Mandela
 <!--END_SECTION:quote-->
 
 
