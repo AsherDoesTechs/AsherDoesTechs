@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return. — Nelson Mandela
+> You give but little when you give of your possessions. It is when you give of yourself that you truly give. — Kahlil Gibran
 <!--END_SECTION:quote-->
 
 
