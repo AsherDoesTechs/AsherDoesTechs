@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You give but little when you give of your possessions. It is when you give of yourself that you truly give. — Kahlil Gibran
+> Be as fluid as water, do not give your enemies anything solid to attack. — Robert Greene
 <!--END_SECTION:quote-->
 
 
