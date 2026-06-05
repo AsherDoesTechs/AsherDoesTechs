@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Be as fluid as water, do not give your enemies anything solid to attack. — Robert Greene
+> Never do to others what you would not like them to do to you. — Confucius
 <!--END_SECTION:quote-->
 
 
