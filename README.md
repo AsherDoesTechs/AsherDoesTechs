@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Never do to others what you would not like them to do to you. — Confucius
+> There is a big difference between being centered and being self-centered. — Lolly Daskal
 <!--END_SECTION:quote-->
 
 
