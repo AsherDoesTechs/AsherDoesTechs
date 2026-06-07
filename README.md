@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> There is a big difference between being centered and being self-centered. — Lolly Daskal
+> If you correct your mind, the rest of your life will fall into place. — Lao Tzu
 <!--END_SECTION:quote-->
 
 
