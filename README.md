@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you correct your mind, the rest of your life will fall into place. — Lao Tzu
+> He who possesses most must be most afraid of loss. — Leonardo da Vinci
 <!--END_SECTION:quote-->
 
 
