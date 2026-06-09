@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> He who possesses most must be most afraid of loss. — Leonardo da Vinci
+> Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience. — Denis Waitley
 <!--END_SECTION:quote-->
 
 
