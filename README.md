@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience. — Denis Waitley
+> You have the potential for greatness. — Steve Harvey
 <!--END_SECTION:quote-->
 
 
