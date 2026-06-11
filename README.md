@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You have the potential for greatness. — Steve Harvey
+> He who possesses most must be most afraid of loss. — Leonardo da Vinci
 <!--END_SECTION:quote-->
 
 
