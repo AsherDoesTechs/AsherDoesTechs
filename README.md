@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> He who possesses most must be most afraid of loss. — Leonardo da Vinci
+> You have a brain and mind of your own. Use it, and reach your own decisions. — Napoleon Hill
 <!--END_SECTION:quote-->
 
 
