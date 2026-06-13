@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You have a brain and mind of your own. Use it, and reach your own decisions. — Napoleon Hill
+> Being a good example is the best form of service. — Sathya Sai Baba
 <!--END_SECTION:quote-->
 
 
