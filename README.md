@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Being a good example is the best form of service. — Sathya Sai Baba
+> Throughout this life, you can never be certain of living long enough to take another breath. — Huang Po
 <!--END_SECTION:quote-->
 
 
