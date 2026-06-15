@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Throughout this life, you can never be certain of living long enough to take another breath. — Huang Po
+> Before you can see the Light, you have to deal with the darkness. — Dan Millman
 <!--END_SECTION:quote-->
 
 
