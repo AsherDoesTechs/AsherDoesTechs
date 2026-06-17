@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored. — Earl Nightingale
+> All cruelty springs from weakness. — Seneca
 <!--END_SECTION:quote-->
 
 
