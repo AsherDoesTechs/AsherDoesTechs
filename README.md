@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> All cruelty springs from weakness. — Seneca
+> Do what you can, with what you have, where you are. — Colin R. Davis
 <!--END_SECTION:quote-->
 
 
