@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Do what you can, with what you have, where you are. — Colin R. Davis
+> It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated. — Albus Dumbledore
 <!--END_SECTION:quote-->
 
 
