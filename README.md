@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves. — Steve Maraboli
+> I believe that potential is unlimited - success depends on daring to act on dreams. — Estee Lauder
 <!--END_SECTION:quote-->
 
 
