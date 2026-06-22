@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I believe that potential is unlimited - success depends on daring to act on dreams. — Estee Lauder
+> Never do to others what you would not like them to do to you. — Confucius
 <!--END_SECTION:quote-->
 
 
