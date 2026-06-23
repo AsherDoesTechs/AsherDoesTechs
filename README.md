@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Never do to others what you would not like them to do to you. — Confucius
+> Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it. — George Eliot
 <!--END_SECTION:quote-->
 
 
