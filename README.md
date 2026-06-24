@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it. — George Eliot
+> The greatest value of a picture is when it forces us to notice what we never expected to see. — John Tukey
 <!--END_SECTION:quote-->
 
 
