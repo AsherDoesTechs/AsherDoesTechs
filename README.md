@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The greatest value of a picture is when it forces us to notice what we never expected to see. — John Tukey
+> Circumstances do not make the man, they reveal him. — James Allen
 <!--END_SECTION:quote-->
 
 
