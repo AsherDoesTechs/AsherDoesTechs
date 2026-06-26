@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Circumstances do not make the man, they reveal him. — James Allen
+> We cannot change anything unless we accept it. — Carl Jung
 <!--END_SECTION:quote-->
 
 
