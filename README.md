@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We cannot change anything unless we accept it. — Carl Jung
+> Adults are just children who earn money. — Kenneth Branagh
 <!--END_SECTION:quote-->
 
 
