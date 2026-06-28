@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Adults are just children who earn money. — Kenneth Branagh
+> Progress is limited by your ability to change your mind. — Jack Butcher
 <!--END_SECTION:quote-->
 
 
