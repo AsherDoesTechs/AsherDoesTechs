@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Progress is limited by your ability to change your mind. — Jack Butcher
+> Success comes to those who become success conscious. — Napoleon Hill
 <!--END_SECTION:quote-->
 
 
