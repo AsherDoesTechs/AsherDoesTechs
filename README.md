@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Success comes to those who become success conscious. — Napoleon Hill
+> You cannot find peace by avoiding life. — Virginia Woolf
 <!--END_SECTION:quote-->
 
 
