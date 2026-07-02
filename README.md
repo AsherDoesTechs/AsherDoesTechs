@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You cannot find peace by avoiding life. — Virginia Woolf
+> Meditate. It won't be fun but it will surface what you need to deal with. — Naval Ravikant
 <!--END_SECTION:quote-->
 
 
