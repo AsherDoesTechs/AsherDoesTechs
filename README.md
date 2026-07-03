@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Meditate. It won't be fun but it will surface what you need to deal with. — Naval Ravikant
+> FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours. — Zig Ziglar
 <!--END_SECTION:quote-->
 
 
