@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours. — Zig Ziglar
+> A lie can travel half way around the world while the truth is putting on its shoes. — Mark Twain
 <!--END_SECTION:quote-->
 
 
