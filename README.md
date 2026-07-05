@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A lie can travel half way around the world while the truth is putting on its shoes. — Mark Twain
+> I can live without money, but I cannot live without love. — Judy Garland
 <!--END_SECTION:quote-->
 
 
