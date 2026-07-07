@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> No snowflake ever falls in the wrong place. — Zen Proverb
+> The future depends on what you do today. — Mahatma Gandhi
 <!--END_SECTION:quote-->
 
 
