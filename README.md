@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The future depends on what you do today. — Mahatma Gandhi
+> Anxiety is the dizziness of freedom. — Soren Kierkegaard
 <!--END_SECTION:quote-->
 
 
