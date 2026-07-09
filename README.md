@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Anxiety is the dizziness of freedom. — Soren Kierkegaard
+> I never said it would be easy, I only said it would be worth it. — Mae West
 <!--END_SECTION:quote-->
 
 
