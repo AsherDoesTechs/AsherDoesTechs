@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I never said it would be easy, I only said it would be worth it. — Mae West
+> By the practice of meditation, you will find that you are carrying within your heart a portable paradise. — Paramahansa Yogananda
 <!--END_SECTION:quote-->
 
 
