@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> By the practice of meditation, you will find that you are carrying within your heart a portable paradise. — Paramahansa Yogananda
+> Successful people do what unsuccessful people are not willing to do. — Jim Rohn
 <!--END_SECTION:quote-->
 
 
