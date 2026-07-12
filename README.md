@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Successful people do what unsuccessful people are not willing to do. — Jim Rohn
+> Every second you have on this planet is very precious and it's your responsibility that you're happy. — Naval Ravikant
 <!--END_SECTION:quote-->
 
 
