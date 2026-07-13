@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Every second you have on this planet is very precious and it's your responsibility that you're happy. — Naval Ravikant
+> If you try, you might get exactly what you want. If you don't, you don't. — Unknown
 <!--END_SECTION:quote-->
 
 
