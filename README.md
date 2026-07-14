@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you try, you might get exactly what you want. If you don't, you don't. — Unknown
+> The worst part of success is trying to find someone who is happy for you. — Bette Midler
 <!--END_SECTION:quote-->
 
 
