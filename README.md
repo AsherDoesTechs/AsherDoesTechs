@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The worst part of success is trying to find someone who is happy for you. — Bette Midler
+> Don't talk about what you have done or what you are going to do. — Thomas Jefferson
 <!--END_SECTION:quote-->
 
 
