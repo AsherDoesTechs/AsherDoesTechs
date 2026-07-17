@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Don't talk about what you have done or what you are going to do. — Thomas Jefferson
+> If you do not change direction, you may end up where you are heading. — Lao Tzu
 <!--END_SECTION:quote-->
 
 
