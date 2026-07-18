@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you do not change direction, you may end up where you are heading. — Lao Tzu
+> You are not stuck where you are unless you decide to be. — Wayne Dyer
 <!--END_SECTION:quote-->
 
 
