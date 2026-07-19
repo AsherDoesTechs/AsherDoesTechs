@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You are not stuck where you are unless you decide to be. — Wayne Dyer
+> The whole of life, from the moment you are born to the moment you die, is a process of learning. — Jiddu Krishnamurti
 <!--END_SECTION:quote-->
 
 
