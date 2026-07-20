@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The whole of life, from the moment you are born to the moment you die, is a process of learning. — Jiddu Krishnamurti
+> Your happiness is what truly matters most. Do what you have to do in order to be happy. — Brian Tracy
 <!--END_SECTION:quote-->
 
 
