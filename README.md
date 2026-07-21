@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Your happiness is what truly matters most. Do what you have to do in order to be happy. — Brian Tracy
+> If no one ever broke the rules, then we'd never advance. — Simon Sinek
 <!--END_SECTION:quote-->
 
 
