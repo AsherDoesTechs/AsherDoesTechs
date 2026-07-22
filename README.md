@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If no one ever broke the rules, then we'd never advance. — Simon Sinek
+> There are no uninteresting things, only uninterested people. — Gilbert Chesterton
 <!--END_SECTION:quote-->
 
 
