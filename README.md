@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> There are no uninteresting things, only uninterested people. — Gilbert Chesterton
+> Treat everyone with politeness and kindness, not because they are nice, but because you are. — Roy T. Bennett
 <!--END_SECTION:quote-->
 
 
