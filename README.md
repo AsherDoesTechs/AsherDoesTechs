@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The first rule of handling conflict is don't hang around people who are constantly engaging in conflict. — Naval Ravikant
+> Whether you think you can or think you can't – you are right. — Henry Ford
 <!--END_SECTION:quote-->
 
 
