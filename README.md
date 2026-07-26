@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Whether you think you can or think you can't – you are right. — Henry Ford
+> It is not fair to ask of others what you are not willing to do yourself. — Eleanor Roosevelt
 <!--END_SECTION:quote-->
 
 
