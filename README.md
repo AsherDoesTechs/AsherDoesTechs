@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> It is not fair to ask of others what you are not willing to do yourself. — Eleanor Roosevelt
+> If it's not broken, tinker with it till you find out how it works. — Bob Proctor
 <!--END_SECTION:quote-->
 
 
