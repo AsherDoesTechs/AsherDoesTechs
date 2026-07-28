@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If it's not broken, tinker with it till you find out how it works. — Bob Proctor
+> Expectations ruin relationships. — Neale Donald Walsch
 <!--END_SECTION:quote-->
 
 
