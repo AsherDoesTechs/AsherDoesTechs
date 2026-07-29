@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Expectations ruin relationships. — Neale Donald Walsch
+> Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. — Norman Vincent Peale
 <!--END_SECTION:quote-->
 
 
