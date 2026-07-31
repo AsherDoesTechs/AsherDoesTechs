@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The glow of one warm thought is to me worth more than money. — Thomas Jefferson
+> Do what you can, with what you have, where you are. — Theodore Roosevelt
 <!--END_SECTION:quote-->
 
 
