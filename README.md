@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Do what you can, with what you have, where you are. — Theodore Roosevelt
+> Muddy water is best cleared by leaving it alone. — Alan Watts
 <!--END_SECTION:quote-->
 
 
