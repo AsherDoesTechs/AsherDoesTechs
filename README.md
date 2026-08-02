@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Muddy water is best cleared by leaving it alone. — Alan Watts
+> Where there is no struggle, there is no strength. — Oprah Winfrey
 <!--END_SECTION:quote-->
 
 
