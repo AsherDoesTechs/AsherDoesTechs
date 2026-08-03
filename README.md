@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Where there is no struggle, there is no strength. — Oprah Winfrey
+> The man who moved the mountain was the one who began carrying away the smallest stones. — Zen Proverb
 <!--END_SECTION:quote-->
 
 
