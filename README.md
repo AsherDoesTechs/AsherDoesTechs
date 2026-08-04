@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The man who moved the mountain was the one who began carrying away the smallest stones. — Zen Proverb
+> Memory is the scribe of the soul. — Aristotle
 <!--END_SECTION:quote-->
 
 
