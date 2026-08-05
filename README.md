@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Memory is the scribe of the soul. — Aristotle
+> Opportunity often comes disguised in the form of misfortune or temporary defeat. — Napoleon Hill
 <!--END_SECTION:quote-->
 
 
