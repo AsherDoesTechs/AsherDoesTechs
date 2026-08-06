@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Opportunity often comes disguised in the form of misfortune or temporary defeat. — Napoleon Hill
+> One never does wrong by doing right. — Norman Vincent Peale
 <!--END_SECTION:quote-->
 
 
