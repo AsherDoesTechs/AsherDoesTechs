@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> One never does wrong by doing right. — Norman Vincent Peale
+> Don't look for meaning in the words. Listen to the silences. — Samuel Beckett
 <!--END_SECTION:quote-->
 
 
