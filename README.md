@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Don't look for meaning in the words. Listen to the silences. — Samuel Beckett
+> Never settle for the crumbs of life. — Og Mandino
 <!--END_SECTION:quote-->
 
 
