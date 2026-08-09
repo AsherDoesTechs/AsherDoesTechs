@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Never settle for the crumbs of life. — Og Mandino
+> The man who does not value himself, cannot value anything or anyone. — Ayn Rand
 <!--END_SECTION:quote-->
 
 
