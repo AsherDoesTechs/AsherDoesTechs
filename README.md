@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The man who does not value himself, cannot value anything or anyone. — Ayn Rand
+> Sorrow is how we learn to love. — Rita Mae Brown
 <!--END_SECTION:quote-->
 
 
