@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Sorrow is how we learn to love. — Rita Mae Brown
+> Happiness depends on your mindset and attitude. — Roy T. Bennett
 <!--END_SECTION:quote-->
 
 
