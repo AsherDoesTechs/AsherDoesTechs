@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Thinking will not overcome fear but action will. — W. Clement Stone
+> If we did all the things we are capable of, we would literally astound ourselves. — Thomas Edison
 <!--END_SECTION:quote-->
 
 
