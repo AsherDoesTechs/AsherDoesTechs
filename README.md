@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If we did all the things we are capable of, we would literally astound ourselves. — Thomas Edison
+> Silence is a source of great strength. — Lao Tzu
 <!--END_SECTION:quote-->
 
 
