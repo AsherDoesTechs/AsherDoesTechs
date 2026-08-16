@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Silence is a source of great strength. — Lao Tzu
+> Success is not to be pursued, it is to be attracted by the person you become. — Jim Rohn
 <!--END_SECTION:quote-->
 
 
