@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Success is not to be pursued, it is to be attracted by the person you become. — Jim Rohn
+> The key to success is action. — Brian Tracy
 <!--END_SECTION:quote-->
 
 
