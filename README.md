@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The key to success is action. — Brian Tracy
+> Eighty percent of success is showing up. — Woody Allen
 <!--END_SECTION:quote-->
 
 
