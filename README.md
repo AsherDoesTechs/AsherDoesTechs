@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Eighty percent of success is showing up. — Woody Allen
+> Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted. — Robert Collier
 <!--END_SECTION:quote-->
 
 
