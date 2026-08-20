@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted. — Robert Collier
+> All life is a manifestation of the spirit, the manifestation of love. — Morihei Ueshiba
 <!--END_SECTION:quote-->
 
 
