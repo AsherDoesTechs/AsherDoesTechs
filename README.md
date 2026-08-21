@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> All life is a manifestation of the spirit, the manifestation of love. — Morihei Ueshiba
+> Expect the best, plan for the worst, and prepare to be surprised. — Denis Waitley
 <!--END_SECTION:quote-->
 
 
