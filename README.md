@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Expect the best, plan for the worst, and prepare to be surprised. — Denis Waitley
+> The future doesn't belong to the faint-hearted; it belongs to the brave. — Ronald Reagan
 <!--END_SECTION:quote-->
 
 
