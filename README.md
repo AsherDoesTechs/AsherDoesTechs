@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The future doesn't belong to the faint-hearted; it belongs to the brave. — Ronald Reagan
+> Life is the dancer and you are the dance. — Eckhart Tolle
 <!--END_SECTION:quote-->
 
 
