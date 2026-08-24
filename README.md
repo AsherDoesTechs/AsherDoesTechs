@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Life is the dancer and you are the dance. — Eckhart Tolle
+> Learning is a weightless treasure you can always carry easily. — Chinese Proverb
 <!--END_SECTION:quote-->
 
 
