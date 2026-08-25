@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Learning is a weightless treasure you can always carry easily. — Chinese Proverb
+> Who can say for sure that one will live to see tomorrow. — Tibetan Proverb
 <!--END_SECTION:quote-->
 
 
