@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Who can say for sure that one will live to see tomorrow. — Tibetan Proverb
+> Life can only be understood backwards; but it must be lived forwards. — Soren Kierkegaard
 <!--END_SECTION:quote-->
 
 
