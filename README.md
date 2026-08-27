@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Life can only be understood backwards; but it must be lived forwards. — Soren Kierkegaard
+> At first dreams seem impossible, then improbable, then inevitable. — Christopher Reeve
 <!--END_SECTION:quote-->
 
 
