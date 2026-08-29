@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> What gets measured gets improved. — Robin Sharma
+> Never allow someone to be your priority while allowing yourself to be their option. — Mark Twain
 <!--END_SECTION:quote-->
 
 
