@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Never allow someone to be your priority while allowing yourself to be their option. — Mark Twain
+> A gentleman is one who puts more into the world than he takes out. — George Bernard Shaw
 <!--END_SECTION:quote-->
 
 
