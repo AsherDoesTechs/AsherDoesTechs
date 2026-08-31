@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A gentleman is one who puts more into the world than he takes out. — George Bernard Shaw
+> One beam, no matter how big, cannot support an entire house on its own. — Chinese Proverb
 <!--END_SECTION:quote-->
 
 
