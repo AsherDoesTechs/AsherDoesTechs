@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> One beam, no matter how big, cannot support an entire house on its own. — Chinese Proverb
+> Fools read fast. Geniuses reread. — Maxime Lagace
 <!--END_SECTION:quote-->
 
 
