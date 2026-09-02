@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Fools read fast. Geniuses reread. — Maxime Lagace
+> There's no one to perform for. There is just work to be done and lessons to be learned, in all that is around us. — Ryan Holiday
 <!--END_SECTION:quote-->
 
 
