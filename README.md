@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> There's no one to perform for. There is just work to be done and lessons to be learned, in all that is around us. — Ryan Holiday
+> Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window. — Peter Drucker
 <!--END_SECTION:quote-->
 
 
