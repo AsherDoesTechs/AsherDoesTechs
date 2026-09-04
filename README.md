@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window. — Peter Drucker
+> He who possesses most must be most afraid of loss. — Leonardo da Vinci
 <!--END_SECTION:quote-->
 
 
