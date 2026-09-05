@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> He who possesses most must be most afraid of loss. — Leonardo da Vinci
+> Always turn a negative situation into a positive situation. — Michael Jordan
 <!--END_SECTION:quote-->
 
 
