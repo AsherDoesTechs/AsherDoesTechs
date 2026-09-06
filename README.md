@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Always turn a negative situation into a positive situation. — Michael Jordan
+> Anger begins with folly, and ends with repentance. — Beverly Sills
 <!--END_SECTION:quote-->
 
 
