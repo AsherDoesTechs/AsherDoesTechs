@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Anger begins with folly, and ends with repentance. — Beverly Sills
+> Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you. — Jeffrey Gitomer
 <!--END_SECTION:quote-->
 
 
