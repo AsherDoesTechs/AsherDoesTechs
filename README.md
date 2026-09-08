@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you. — Jeffrey Gitomer
+> Sad thing is, you can still love someone and be wrong for them. — Elvis Presley
 <!--END_SECTION:quote-->
 
 
