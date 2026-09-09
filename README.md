@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Sad thing is, you can still love someone and be wrong for them. — Elvis Presley
+> So long as we are being remembered, we remain alive. — Carlos Ruiz Zafon
 <!--END_SECTION:quote-->
 
 
