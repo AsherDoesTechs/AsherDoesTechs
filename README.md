@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> So long as we are being remembered, we remain alive. — Carlos Ruiz Zafon
+> You are what you believe in. You become that which you believe you can become. — Bhagavad Gita
 <!--END_SECTION:quote-->
 
 
