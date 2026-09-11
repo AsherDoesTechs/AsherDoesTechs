@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You are what you believe in. You become that which you believe you can become. — Bhagavad Gita
+> Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live. — Nicolas Chamfort
 <!--END_SECTION:quote-->
 
 
