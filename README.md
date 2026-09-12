@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live. — Nicolas Chamfort
+> If you want to be successful, you have to jump, there's no way around it. — Steve Harvey
 <!--END_SECTION:quote-->
 
 
