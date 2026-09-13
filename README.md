@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you want to be successful, you have to jump, there's no way around it. — Steve Harvey
+> The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. — Henry Ward Beecher
 <!--END_SECTION:quote-->
 
 
