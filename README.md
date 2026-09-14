@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. — Henry Ward Beecher
+> Do what you feel in your heart to be right - for you'll be criticized anyway. — Eleanor Roosevelt
 <!--END_SECTION:quote-->
 
 
