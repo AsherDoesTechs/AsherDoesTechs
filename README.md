@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Do what you feel in your heart to be right - for you'll be criticized anyway. — Eleanor Roosevelt
+> Your next step is simple. You are the first domino. — Gary Keller
 <!--END_SECTION:quote-->
 
 
