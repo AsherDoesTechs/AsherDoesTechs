@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Your next step is simple. You are the first domino. — Gary Keller
+> Imagination is everything. It is the preview of life's coming attractions. — Albert Einstein
 <!--END_SECTION:quote-->
 
 
