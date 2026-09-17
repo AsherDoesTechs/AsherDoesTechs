@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Imagination is everything. It is the preview of life's coming attractions. — Albert Einstein
+> No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations. — Wayne Gretzky
 <!--END_SECTION:quote-->
 
 
