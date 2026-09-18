@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations. — Wayne Gretzky
+> The friend is the man who knows all about you, and still likes you. — Elbert Hubbard
 <!--END_SECTION:quote-->
 
 
