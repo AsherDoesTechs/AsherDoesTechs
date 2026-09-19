@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The friend is the man who knows all about you, and still likes you. — Elbert Hubbard
+> Force has no place where there is need of skill. — Herodotus
 <!--END_SECTION:quote-->
 
 
