@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Force has no place where there is need of skill. — Herodotus
+> Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. — Paramahansa Yogananda
 <!--END_SECTION:quote-->
 
 
