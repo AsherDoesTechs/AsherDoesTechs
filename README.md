@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. — Paramahansa Yogananda
+> A man with outward courage dares to die: a man with inner courage dares to live. — Lao Tzu
 <!--END_SECTION:quote-->
 
 
