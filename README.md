@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A man with outward courage dares to die: a man with inner courage dares to live. — Lao Tzu
+> If you can't argue both sides, you can't argue. — Jack Butcher
 <!--END_SECTION:quote-->
 
 
