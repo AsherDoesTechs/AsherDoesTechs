@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you can't argue both sides, you can't argue. — Jack Butcher
+> When at last you are come to the ocean of happiness, do not go back thirsty. — Kabir
 <!--END_SECTION:quote-->
 
 
