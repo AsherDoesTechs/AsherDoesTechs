@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> When at last you are come to the ocean of happiness, do not go back thirsty. — Kabir
+> Blessed is he who expects nothing, for he shall never be disappointed. — Alexander Pope
 <!--END_SECTION:quote-->
 
 
