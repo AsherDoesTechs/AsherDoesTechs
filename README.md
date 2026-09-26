@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Behind every cloud is another cloud. — Judy Garland
+> Goodness is the only investment that never fails. — Henry David Thoreau
 <!--END_SECTION:quote-->
 
 
