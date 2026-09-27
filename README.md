@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Goodness is the only investment that never fails. — Henry David Thoreau
+> it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. — Barack Obama
 <!--END_SECTION:quote-->
 
 
