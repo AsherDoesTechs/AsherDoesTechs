@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. — Barack Obama
+> Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. — George Washington
 <!--END_SECTION:quote-->
 
 
