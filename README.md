@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. — George Washington
+> Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. — Celestine Chua
 <!--END_SECTION:quote-->
 
 
