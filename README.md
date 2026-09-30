@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. — Celestine Chua
+> To travel is to be alive, but to get somewhere is to be dead. — Alan Watts
 <!--END_SECTION:quote-->
 
 
