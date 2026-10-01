@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> To travel is to be alive, but to get somewhere is to be dead. — Alan Watts
+> A good system shortens the road to the goal. — Orison Swett Marden
 <!--END_SECTION:quote-->
 
 
