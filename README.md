@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A good system shortens the road to the goal. — Orison Swett Marden
+> Expect the best of yourself, and then do what is necessary to make it a reality. — Ralph Marston
 <!--END_SECTION:quote-->
 
 
