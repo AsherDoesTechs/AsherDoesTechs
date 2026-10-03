@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Expect the best of yourself, and then do what is necessary to make it a reality. — Ralph Marston
+> Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win. — Stephen King
 <!--END_SECTION:quote-->
 
 
