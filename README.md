@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win. — Stephen King
+> You can never get enough of what you don't need to make you happy. — Eric Hoffer
 <!--END_SECTION:quote-->
 
 
