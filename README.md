@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You can never get enough of what you don't need to make you happy. — Eric Hoffer
+> The difference between impossible and possible is a willing heart. — Lolly Daskal
 <!--END_SECTION:quote-->
 
 
