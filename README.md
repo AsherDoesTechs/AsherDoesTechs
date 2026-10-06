@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The difference between impossible and possible is a willing heart. — Lolly Daskal
+> I am not proud, but I am happy; and happiness blinds, I think, more than pride. — Alexandre Dumas
 <!--END_SECTION:quote-->
 
 
