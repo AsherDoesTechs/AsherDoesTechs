@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I am not proud, but I am happy; and happiness blinds, I think, more than pride. — Alexandre Dumas
+> The ones who are crazy enough to think they can change the world, are the ones that do. — Steve Jobs
 <!--END_SECTION:quote-->
 
 
