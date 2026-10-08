@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The ones who are crazy enough to think they can change the world, are the ones that do. — Steve Jobs
+> Life is either a daring adventure, or nothing. — Helen Keller
 <!--END_SECTION:quote-->
 
 
