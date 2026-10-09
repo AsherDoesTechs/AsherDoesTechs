@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Life is either a daring adventure, or nothing. — Helen Keller
+> You cannot have a positive life and a negative mind. — Joyce Meyer
 <!--END_SECTION:quote-->
 
 
