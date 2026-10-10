@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You cannot have a positive life and a negative mind. — Joyce Meyer
+> A rational person can find peace by cultivating indifference to things outside of their control. — Naval Ravikant
 <!--END_SECTION:quote-->
 
 
