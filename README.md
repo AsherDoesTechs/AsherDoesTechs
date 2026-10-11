@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A rational person can find peace by cultivating indifference to things outside of their control. — Naval Ravikant
+> It is better to disappoint people with the truth than to appease them with a lie. — Simon Sinek
 <!--END_SECTION:quote-->
 
 
