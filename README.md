@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> It is better to disappoint people with the truth than to appease them with a lie. — Simon Sinek
+> Where there's life, there's hope. — Stephen Hawking
 <!--END_SECTION:quote-->
 
 
