@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Where there's life, there's hope. — Stephen Hawking
+> What is a friend? A single soul dwelling in two bodies. — Aristotle
 <!--END_SECTION:quote-->
 
 
