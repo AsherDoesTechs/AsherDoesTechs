@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> What is a friend? A single soul dwelling in two bodies. — Aristotle
+> A strong man overcomes an obstacle, a wise man goes the whole way. — Zen Proverb
 <!--END_SECTION:quote-->
 
 
