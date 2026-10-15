@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A strong man overcomes an obstacle, a wise man goes the whole way. — Zen Proverb
+> The only person you should try to be better than is the person you were yesterday. — Brian Tracy
 <!--END_SECTION:quote-->
 
 
