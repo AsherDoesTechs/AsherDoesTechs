@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The only person you should try to be better than is the person you were yesterday. — Brian Tracy
+> We can't help everyone, but everyone can help someone. — Ronald Reagan
 <!--END_SECTION:quote-->
 
 
