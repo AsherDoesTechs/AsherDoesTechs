@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> We can't help everyone, but everyone can help someone. — Ronald Reagan
+> Mistakes are always forgivable, if one has the courage to admit them. — Bruce Lee
 <!--END_SECTION:quote-->
 
 
