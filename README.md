@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Mistakes are always forgivable, if one has the courage to admit them. — Bruce Lee
+> Be where your enemy is not. — Sun Tzu
 <!--END_SECTION:quote-->
 
 
