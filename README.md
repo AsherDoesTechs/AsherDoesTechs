@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Be where your enemy is not. — Sun Tzu
+> It is not as important how we start, but how we finish. — Joyce Meyer
 <!--END_SECTION:quote-->
 
 
