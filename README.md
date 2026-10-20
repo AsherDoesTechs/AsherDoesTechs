@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> It is not as important how we start, but how we finish. — Joyce Meyer
+> Great things are not done by impulse, but by a series of small things brought together. — Vincent van Gogh
 <!--END_SECTION:quote-->
 
 
