@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Great things are not done by impulse, but by a series of small things brought together. — Vincent van Gogh
+> Being wrong opens us up to the possibility of change. — Mark Manson
 <!--END_SECTION:quote-->
 
 
