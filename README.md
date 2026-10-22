@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Being wrong opens us up to the possibility of change. — Mark Manson
+> Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them. — W. Clement Stone
 <!--END_SECTION:quote-->
 
 
