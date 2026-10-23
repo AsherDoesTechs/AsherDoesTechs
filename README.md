@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them. — W. Clement Stone
+> Winners never quit and quitters never win. — Vince Lombardi
 <!--END_SECTION:quote-->
 
 
