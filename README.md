@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Winners never quit and quitters never win. — Vince Lombardi
+> No man ever steps in the same river twice, for it's not the same river and he's not the same man. — Heraclitus
 <!--END_SECTION:quote-->
 
 
