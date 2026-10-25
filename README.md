@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> No man ever steps in the same river twice, for it's not the same river and he's not the same man. — Heraclitus
+> The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for. — Bob Marley
 <!--END_SECTION:quote-->
 
 
