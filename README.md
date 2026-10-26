@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for. — Bob Marley
+> You'll never find rainbows if you're looking down. — Charlie Chaplin
 <!--END_SECTION:quote-->
 
 
