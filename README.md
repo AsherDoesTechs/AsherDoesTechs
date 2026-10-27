@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You'll never find rainbows if you're looking down. — Charlie Chaplin
+> Attitude, not aptitude, determines altitude. — Zig Ziglar
 <!--END_SECTION:quote-->
 
 
