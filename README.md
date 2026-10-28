@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Attitude, not aptitude, determines altitude. — Zig Ziglar
+> How people treat you is their karma; how you react is yours. — Wayne Dyer
 <!--END_SECTION:quote-->
 
 
