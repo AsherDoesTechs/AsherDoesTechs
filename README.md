@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> How people treat you is their karma; how you react is yours. — Wayne Dyer
+> Show me a hero, and I'll write you a tragedy. — F. Scott Fitzgerald
 <!--END_SECTION:quote-->
 
 
