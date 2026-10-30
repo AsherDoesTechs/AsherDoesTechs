@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Show me a hero, and I'll write you a tragedy. — F. Scott Fitzgerald
+> I would rather be a little nobody, then to be an evil somebody. — Abraham Lincoln
 <!--END_SECTION:quote-->
 
 
