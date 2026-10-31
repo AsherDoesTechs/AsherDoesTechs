@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I would rather be a little nobody, then to be an evil somebody. — Abraham Lincoln
+> The best way to understanding is a few good examples. — Isaac Newton
 <!--END_SECTION:quote-->
 
 
