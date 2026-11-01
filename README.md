@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The best way to understanding is a few good examples. — Isaac Newton
+> The mind is the limit. — Arnold Schwarzenegger
 <!--END_SECTION:quote-->
 
 
