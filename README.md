@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The mind is the limit. — Arnold Schwarzenegger
+> You can't make someone feel good about themselves until you feel good about yourself. — Robin Sharma
 <!--END_SECTION:quote-->
 
 
