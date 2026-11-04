@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this. — Henry David Thoreau
+> To get angry is like to revenge yourself for the guilt of others. — Jonathan Swift
 <!--END_SECTION:quote-->
 
 
