@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Wit is educated insolence. — Aristotle
+> The dreamers are the saviors of the worlds. — James Allen
 <!--END_SECTION:quote-->
 
 
