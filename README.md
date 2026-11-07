@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The dreamers are the saviors of the worlds. — James Allen
+> Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes. — Carl Jung
 <!--END_SECTION:quote-->
 
 
