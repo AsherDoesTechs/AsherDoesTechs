@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes. — Carl Jung
+> To escape from the world means that one's mind is not concerned with the opinions of the world. — Dogen
 <!--END_SECTION:quote-->
 
 
