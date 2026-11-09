@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> To escape from the world means that one's mind is not concerned with the opinions of the world. — Dogen
+> Do the difficult things while they are easy and do the great things while they are small. — Lao Tzu
 <!--END_SECTION:quote-->
 
 
