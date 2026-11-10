@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Do the difficult things while they are easy and do the great things while they are small. — Lao Tzu
+> If you can't, you must. If you must, you can. — Tony Robbins
 <!--END_SECTION:quote-->
 
 
