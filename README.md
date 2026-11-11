@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If you can't, you must. If you must, you can. — Tony Robbins
+> As a man thinketh in his heart, so shall he be. — James Allen
 <!--END_SECTION:quote-->
 
 
