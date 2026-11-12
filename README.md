@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> As a man thinketh in his heart, so shall he be. — James Allen
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures. — Henry Ward Beecher
 <!--END_SECTION:quote-->
 
 
