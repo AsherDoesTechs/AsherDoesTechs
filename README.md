@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Every artist dips his brush in his own soul, and paints his own nature into his pictures. — Henry Ward Beecher
+> There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose. — Elbert Hubbard
 <!--END_SECTION:quote-->
 
 
