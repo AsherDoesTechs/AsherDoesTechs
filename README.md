@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose. — Elbert Hubbard
+> Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found. — Alexander Pope
 <!--END_SECTION:quote-->
 
 
