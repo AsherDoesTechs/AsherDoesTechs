@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found. — Alexander Pope
+> Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability. — John Wooden
 <!--END_SECTION:quote-->
 
 
