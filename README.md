@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability. — John Wooden
+> Sometimes a change of perspective is all it takes to see the light. — Dan Brown
 <!--END_SECTION:quote-->
 
 
