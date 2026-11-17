@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Sometimes a change of perspective is all it takes to see the light. — Dan Brown
+> A path is made by walking on it. — Zhuangzi
 <!--END_SECTION:quote-->
 
 
