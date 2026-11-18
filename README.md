@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> A path is made by walking on it. — Zhuangzi
+> Your work is to discover your work and then, with all your heart, to give yourself to it. — Buddha
 <!--END_SECTION:quote-->
 
 
