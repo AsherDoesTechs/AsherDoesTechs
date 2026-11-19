@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Your work is to discover your work and then, with all your heart, to give yourself to it. — Buddha
+> The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions. — Steve Maraboli
 <!--END_SECTION:quote-->
 
 
