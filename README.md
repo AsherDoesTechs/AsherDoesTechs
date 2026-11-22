@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> If I can pay the bills, I'm happy. — Morgan Wootten
+> The more we value things, the less we value ourselves. — Bruce Lee
 <!--END_SECTION:quote-->
 
 
