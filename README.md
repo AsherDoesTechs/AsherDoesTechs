@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> The more we value things, the less we value ourselves. — Bruce Lee
+> Hold yourself responsible for a higher standard than anybody else expects of you. — Henry Ward Beecher
 <!--END_SECTION:quote-->
 
 
