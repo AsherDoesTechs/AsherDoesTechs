@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Hold yourself responsible for a higher standard than anybody else expects of you. — Henry Ward Beecher
+> Belief creates the actual fact. — William James
 <!--END_SECTION:quote-->
 
 
