@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Belief creates the actual fact. — William James
+> I am not absentminded. It is the presence of mind that makes me unaware of everything else. — Gilbert Chesterton
 <!--END_SECTION:quote-->
 
 
