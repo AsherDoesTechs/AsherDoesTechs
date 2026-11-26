@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> I am not absentminded. It is the presence of mind that makes me unaware of everything else. — Gilbert Chesterton
+> Successful people appreciate where they have come from, but they don't let their past set the tone for their future. — Steve Harvey
 <!--END_SECTION:quote-->
 
 
