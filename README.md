@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Successful people appreciate where they have come from, but they don't let their past set the tone for their future. — Steve Harvey
+> Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace. — Earl Nightingale
 <!--END_SECTION:quote-->
 
 
