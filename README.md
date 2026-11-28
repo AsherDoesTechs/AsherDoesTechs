@@ -57,7 +57,7 @@ Click here => https://asher-basco.vercel.app
 ### 🔁 Daily Quote
 
 <!--START_SECTION:quote-->
-> Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace. — Earl Nightingale
+> We are like islands in the sea, separate on the surface but connected in the deep. — William James
 <!--END_SECTION:quote-->
 
 
